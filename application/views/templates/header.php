@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Nine - Coffe</title>
+    <title>Nine - Coffe </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -27,5 +27,6 @@
 
     <link href="<?= base_url('assets/'); ?>css/flaticon.css">
     <link href="<?= base_url('assets/'); ?>css/icomoon.css">
-    <link href="<?= base_url('assets/'); ?>css/style.css">
-</head>
+
+    <head href="<?= base_url('assets/'); ?>css/style.css">
+    </head>
