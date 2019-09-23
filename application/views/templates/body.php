@@ -1,3 +1,4 @@
+<body>
 <section class="home-slider owl-carousel">
       <div class="slider-item" style="background-image: url(assets/images/bg_1.jpg);">
       	<div class="overlay"></div>
@@ -457,7 +458,7 @@
 		                <div class="row">
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dessert-1.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(assets/images/dessert-1.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Hot Cake Honey</a></h3>
 		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
@@ -479,7 +480,7 @@
 		              		</div>
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/dessert-3.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(assets/images/dessert-3.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Hot Cake Honey</a></h3>
 		              					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
@@ -544,7 +545,7 @@
 	              </blockquote>
 	              <div class="author d-flex mt-4">
 	                <div class="image mr-3 align-self-center">
-	                  <img src="images/person_3.jpg" alt="">
+	                  <img src="assets/images/person_3.jpg" alt="">
 	                </div>
 	                <div class="name align-self-center">Louise Kelly <span class="position">Illustrator Designer</span></div>
 	              </div>
@@ -557,7 +558,7 @@
 	              </blockquote>
 	              <div class="author d-flex mt-4">
 	                <div class="image mr-3 align-self-center">
-	                  <img src="images/person_2.jpg" alt="">
+	                  <img src="assets/images/person_2.jpg" alt="">
 	                </div>
 	                <div class="name align-self-center">Louise Kelly <span class="position">Illustrator Designer</span></div>
 	              </div>
