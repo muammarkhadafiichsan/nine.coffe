@@ -3,15 +3,15 @@
     <!-- END nav -->
 
     <section class="home-slider owl-carousel">
-        <div class="slider-item" style="background-image: url(images/bg_1.jpg);">
+        <div class="slider-item" style="background-image: url(assets/images/bg_1.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
                     <div class="col-md-8 col-sm-12 text-center ">
                         <span class="subheading">Selamat Datang</span>
-                        <h1 class="mb-4">The Best Coffee Testing Experience</h1>
-                        <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                        <h1 class="mb-4">Kopi Terbaik Bondowoso</h1>
+                        <p class="mb-4 mb-md-5">Kopi yang ditanam di lahan yang luas dengan kontur tanah yang sesuai dan diolah dengan canggih dan higienis agar dapat menciptakan biji kopi terbaik.</p>
                         <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
                     </div>
 
@@ -19,15 +19,15 @@
             </div>
         </div>
 
-        <div class="slider-item" style="background-image: url(images/bg_2.jpg);">
+        <div class="slider-item" style="background-image: url(assets/images/bg_2.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
                     <div class="col-md-8 col-sm-12 text-center ftco-animate">
-                        <span class="subheading">Welcome</span>
-                        <h1 class="mb-4">Amazing Taste &amp; Beautiful Place</h1>
-                        <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                        <span class="subheading">Selamat Datang</span>
+                        <h1 class="mb-4">Proses Pengolahan Kopi Pasca Panen</h1>
+                        <p class="mb-4 mb-md-5">Setelah biji kopi dipanen, kemudian diproses di pabrik untuk disortir kembali untuk dipilih biji kopi terbaik.</p>
                         <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
                     </div>
 
@@ -41,9 +41,9 @@
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
                     <div class="col-md-8 col-sm-12 text-center ftco-animate">
-                        <span class="subheading">Welcome</span>
-                        <h1 class="mb-4">Creamy Hot and Ready to Serve</h1>
-                        <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                        <span class="subheading">Selamat Datang</span>
+                        <h1 class="mb-4">Proses Pengemasan Kopi</h1>
+                        <p class="mb-4 mb-md-5">biji kopi yang sudah disiapkan akan dikemas kedalam plastik - plastik kecil untuk di salurkan ke toko - toko atau cafe yang menjadi reseller kami. </p>
                         <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
                     </div>
 
