@@ -3,7 +3,7 @@
     <!-- END nav -->
 
     <section class="home-slider owl-carousel">
-        <div class="slider-item" style="background-image: url(assets/images/bg_1.jpg);">
+        <div class="slider-item" style="background-image: url(images/kebun_kopi.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
@@ -58,7 +58,7 @@
         <div class="one-half img" style="background-image: url(assets/images/nine_logo.png);"></div>
 
 
-      
+
 
 
 
@@ -179,9 +179,9 @@
                         <h2 class="ftco-heading-2">Have a Questions?</h2>
                         <div class="block-23 mb-3">
                             <ul>
-                                <li><span class="icon icon-map-marker"></span><span class="text">	
-                                Jl. Jaksa Agung
-                                Kabupaten Bondowoso 68211</span></li>
+                                <li><span class="icon icon-map-marker"></span><span class="text">
+                                        Jl. Jaksa Agung
+                                        Kabupaten Bondowoso 68211</span></li>
                                 <li><a href="#"><span class="icon icon-phone"></span><span class="text">+62 8968 316 1230</span></a></li>
                                 <li><a href="#"><span class="icon icon-envelope"></span><span class="text">ninecoffee@gmail.com</span></a></li>
                             </ul>
