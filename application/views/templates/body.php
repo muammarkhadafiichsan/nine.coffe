@@ -55,7 +55,7 @@
 
 
     <section class="ftco-about d-md-flex">
-        <div class="one-half img" style="background-image: url(assets/images/nine_logo.png);"></div>
+        <div class="one-half img rounded-circle" style="background-image: url(assets/images/nine_logo.png);" width="500"></div>
 
 
 
