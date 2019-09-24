@@ -55,15 +55,15 @@
 
 
     <section class="ftco-about d-md-flex">
-        <div class="one-half img" style="background-image: url(images/about.jpg);"></div>
+        <div class="one-half img" style="background-image: url(assets/images/nine_logo.png);"></div>
         <div class="one-half ftco-animate">
             <div class="overlap">
                 <div class="heading-section ftco-animate ">
-                    <span class="subheading">Discover</span>
-                    <h2 class="mb-4">Our Story</h2>
+                    <span class="subheading">History</span>
+                    <h2 class="mb-4">Our Company</h2>
                 </div>
                 <div>
-                    <p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+                    <p>Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</p>
                 </div>
             </div>
         </div>
@@ -173,9 +173,11 @@
                         <h2 class="ftco-heading-2">Have a Questions?</h2>
                         <div class="block-23 mb-3">
                             <ul>
-                                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-                                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-                                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+                                <li><span class="icon icon-map-marker"></span><span class="text">	
+                                Jl. Jaksa Agung
+                                Kabupaten Bondowoso 68211</span></li>
+                                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+62 8968 316 1230</span></a></li>
+                                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">ninecoffee@gmail.com</span></a></li>
                             </ul>
                         </div>
                     </div>
