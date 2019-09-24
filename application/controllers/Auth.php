@@ -20,4 +20,14 @@ class Auth extends CI_Controller
         $this->load->view('menu/produk');
         $this->load->view('templates/footer');
     }
+
+    public function retail()
+    {
+        $this->load->view('templates/header');
+        $this->load->view('templates/navbar');
+        $this->load->view('menu/retail');
+        $this->load->view('templates/footer');
+    }
+
+
 }

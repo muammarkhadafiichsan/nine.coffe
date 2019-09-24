@@ -14,7 +14,7 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="room.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TOKO</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown04">
-                        <a class="dropdown-item" href="shop.html">RETAIL</a>
+                        <a class="dropdown-item" href="<?php echo base_url() . "auth/retail"; ?>">RETAIL</a>
                         <a class="dropdown-item" href="product-single.html">KAFE</a>
 
                     </div>
