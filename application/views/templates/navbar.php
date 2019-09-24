@@ -1,11 +1,11 @@
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-
     <div class="container">
+        <li><img class="image" border="0" src="<?php echo base_url() .  "assets/images/nine_logo.png"; ?>" width="52px" style="margin: 1px;padding: 0px color:white;"> </li>
 
-        <a class="navbar-brand" href="index.html">NINE<small>Coffee Roastery</small></a>
-        <a class="brand logo"><img src="<?php echo base_url().  "assets/template/front/Serenity/assets/img/logo.jpg" ; ?>"></a>
+        <a class="navbar-brand" href="index.html">NINE<small>COFFE ROASTERY</small></a>
+
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="oi oi-menu"></span> Menu
+            <span class="oi oi-menu"></span> Menu
         </button>
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
@@ -25,4 +25,6 @@
             </ul>
         </div>
     </div>
+    </div>
+
 </nav>
