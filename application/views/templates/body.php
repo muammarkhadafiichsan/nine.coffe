@@ -12,7 +12,7 @@
                         <span class="subheading">Selamat Datang</span>
                         <h1 class="mb-4">Kopi Terbaik Bondowoso</h1>
                         <p class="mb-4 mb-md-5">Kopi yang ditanam di lahan yang luas dengan kontur tanah yang sesuai dan diolah dengan canggih dan higienis agar dapat menciptakan biji kopi terbaik.</p>
-                        <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
+                        <p> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
                     </div>
 
                 </div>
@@ -28,7 +28,7 @@
                         <span class="subheading">Selamat Datang</span>
                         <h1 class="mb-4">Proses Pengolahan Kopi Pasca Panen</h1>
                         <p class="mb-4 mb-md-5">Setelah biji kopi dipanen, kemudian diproses di pabrik untuk disortir kembali untuk dipilih biji kopi terbaik.</p>
-                        <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
+                        <p><a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
                     </div>
 
                 </div>
@@ -44,7 +44,7 @@
                         <span class="subheading">Selamat Datang</span>
                         <h1 class="mb-4">Proses Pengemasan Kopi</h1>
                         <p class="mb-4 mb-md-5">biji kopi yang sudah disiapkan akan dikemas kedalam plastik - plastik kecil untuk di salurkan ke toko - toko atau cafe yang menjadi reseller kami. </p>
-                        <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
+                        <p><a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
                     </div>
 
                 </div>
@@ -56,6 +56,12 @@
 
     <section class="ftco-about d-md-flex">
         <div class="one-half img" style="background-image: url(assets/images/nine_logo.png);"></div>
+
+
+      
+
+
+
         <div class="one-half ftco-animate">
             <div class="overlap">
                 <div class="heading-section ftco-animate ">
@@ -72,10 +78,10 @@
     <section class="ftco-section ftco-services">
         <div class="container">
             <div class="col-md-15 col-sm-15 text-center">
-                        
-                        <h1 class="mb-4">ACHIEVEMENT</h1>
-                        
-                    </div>
+
+                <h1 class="mb-4">ACHIEVEMENT</h1>
+
+            </div>
             <div class="row">
                 <div class="col-md-4 ftco-animate">
                     <div class="media d-block text-center block-6 services">
