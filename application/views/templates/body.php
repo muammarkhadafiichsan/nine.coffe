@@ -55,7 +55,10 @@
 
 
     <section class="ftco-about d-md-flex">
+
         <div class="one-half img" src=" <?php echo base_url('assets') . "/images/about.jpg"; ?>" alt=""></div>
+
+
         <div class="one-half ftco-animate">
             <div class="overlap">
                 <div class="heading-section ftco-animate ">
