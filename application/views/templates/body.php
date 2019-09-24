@@ -10,9 +10,15 @@
 
                     <div class="col-md-8 col-sm-12 text-center ">
                         <span class="subheading">Selamat Datang</span>
+
                         <h1 class="mb-4">The Best Coffee Testing Experience</h1>
                         <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                         <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
+
+                        <h1 class="mb-4">Kopi Terbaik Bondowoso</h1>
+                        <p class="mb-4 mb-md-5">Kopi yang ditanam di lahan yang luas dengan kontur tanah yang sesuai dan diolah dengan canggih dan higienis agar dapat menciptakan biji kopi terbaik.</p>
+                        <p> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
+
                     </div>
 
                 </div>
@@ -25,10 +31,17 @@
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
                     <div class="col-md-8 col-sm-12 text-center ftco-animate">
+
                         <span class="subheading">Welcome</span>
                         <h1 class="mb-4">Amazing Taste &amp; Beautiful Place</h1>
                         <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                         <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
+
+                        <span class="subheading">Selamat Datang</span>
+                        <h1 class="mb-4">Proses Pengolahan Kopi Pasca Panen</h1>
+                        <p class="mb-4 mb-md-5">Setelah biji kopi dipanen, kemudian diproses di pabrik untuk disortir kembali untuk dipilih biji kopi terbaik.</p>
+                        <p><a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
+
                     </div>
 
                 </div>
@@ -41,10 +54,17 @@
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
                     <div class="col-md-8 col-sm-12 text-center ftco-animate">
+
                         <span class="subheading">Welcome</span>
                         <h1 class="mb-4">Creamy Hot and Ready to Serve</h1>
                         <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                         <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
+
+                        <span class="subheading">Selamat Datang</span>
+                        <h1 class="mb-4">Proses Pengemasan Kopi</h1>
+                        <p class="mb-4 mb-md-5">biji kopi yang sudah disiapkan akan dikemas kedalam plastik - plastik kecil untuk di salurkan ke toko - toko atau cafe yang menjadi reseller kami. </p>
+                        <p><a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
+
                     </div>
 
                 </div>
@@ -55,15 +75,25 @@
 
 
     <section class="ftco-about d-md-flex">
+
         <div class="one-half img" style="background-image: url(images/about.jpg);"></div>
+
+        <div class="one-half img" style="background-image: url(assets/images/nine_logo.png);"></div>
+
+
+      
+
+
+
+
         <div class="one-half ftco-animate">
             <div class="overlap">
                 <div class="heading-section ftco-animate ">
-                    <span class="subheading">Discover</span>
-                    <h2 class="mb-4">Our Story</h2>
+                    <span class="subheading">History</span>
+                    <h2 class="mb-4">Our Company</h2>
                 </div>
                 <div>
-                    <p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+                    <p>Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</p>
                 </div>
             </div>
         </div>
@@ -72,10 +102,10 @@
     <section class="ftco-section ftco-services">
         <div class="container">
             <div class="col-md-15 col-sm-15 text-center">
-                        
-                        <h1 class="mb-4">ACHIEVEMENT</h1>
-                        
-                    </div>
+
+                <h1 class="mb-4">ACHIEVEMENT</h1>
+
+            </div>
             <div class="row">
                 <div class="col-md-4 ftco-animate">
                     <div class="media d-block text-center block-6 services">
@@ -173,9 +203,11 @@
                         <h2 class="ftco-heading-2">Have a Questions?</h2>
                         <div class="block-23 mb-3">
                             <ul>
-                                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-                                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-                                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+                                <li><span class="icon icon-map-marker"></span><span class="text">	
+                                Jl. Jaksa Agung
+                                Kabupaten Bondowoso 68211</span></li>
+                                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+62 8968 316 1230</span></a></li>
+                                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">ninecoffee@gmail.com</span></a></li>
                             </ul>
                         </div>
                     </div>
