@@ -55,7 +55,7 @@
 
 
     <section class="ftco-about d-md-flex">
-        <div class="one-half img" style="background-image: url(images/about.jpg);"></div>
+        <div class="one-half img"><img src="<?php echo base_url(). "assets/images/nine_logo.png" ?></div>
         <div class="one-half ftco-animate">
             <div class="overlap">
                 <div class="heading-section ftco-animate ">
