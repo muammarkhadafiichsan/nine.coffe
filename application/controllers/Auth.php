@@ -13,7 +13,7 @@ class Auth extends CI_Controller
         $this->load->view('templates/footer');
     }
 
-    public function menu()
+    public function menu_produk()
     {
         $this->load->view('templates/header');
         $this->load->view('menu/produk');
