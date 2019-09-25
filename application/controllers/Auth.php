@@ -21,7 +21,7 @@ class Auth extends CI_Controller
         $this->load->view('templates/footer');
     }
 
-    public function retail()
+    public function menu_retail()
     {
         $this->load->view('templates/header');
         $this->load->view('templates/navbar');
@@ -29,5 +29,19 @@ class Auth extends CI_Controller
         $this->load->view('templates/footer');
     }
 
+    public function menu_kafe()
+    {
+        $this->load->view('templates/header');
+        $this->load->view('templates/navbar');
+        $this->load->view('menu/kafe');
+        $this->load->view('templates/footer');
+    }
 
+    public function menu_berita()
+    {
+        $this->load->view('templates/header');
+        $this->load->view('templates/navbar');
+        $this->load->view('menu/berita');
+        $this->load->view('templates/footer');
+    }
 }

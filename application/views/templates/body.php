@@ -65,8 +65,8 @@
         <div class="one-half ftco-animate">
             <div class="overlap">
                 <div class="heading-section ftco-animate ">
-                    <span class="subheading">History</span>
-                    <h2 class="mb-4">Our Company</h2>
+                    <span class="subheading">history</span>
+                    <h2 class="mb-4">NINE-COFFE</h2>
                 </div>
                 <div>
                     <p>Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</p>
@@ -86,32 +86,32 @@
                 <div class="col-md-4 ftco-animate">
                     <div class="media d-block text-center block-6 services">
                         <div class="icon d-flex justify-content-center align-items-center mb-5">
-                            <span class="flaticon-choices"></span>
+                            <span class=""></span>
                         </div>
                         <div class="media-body">
-                            <h3 class="heading">Easy to Order</h3>
-                            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                            <h3 class="heading">BARISTA CHAMPIONSHIP</h3>
+                            <p>Juara 1 di jakarta ini memperlombkan barista - barista terbaik di Indonesia</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="media d-block text-center block-6 services">
                         <div class="icon d-flex justify-content-center align-items-center mb-5">
-                            <span class="flaticon-delivery-truck"></span>
+                            <span class=""></span>
                         </div>
                         <div class="media-body">
-                            <h3 class="heading">Fastest Delivery</h3>
-                            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                            <h3 class="heading">COFFE BEANS </h3>
+                            <p>Juara terhadap kualitas kopi dan dipertandingkan dengan kopi - kopi di daerah lain seluruh Indonesia</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="media d-block text-center block-6 services">
                         <div class="icon d-flex justify-content-center align-items-center mb-5">
-                            <span class="flaticon-coffee-bean"></span></div>
+                            <span class=""></span></div>
                         <div class="media-body">
                             <h3 class="heading">Quality Coffee</h3>
-                            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                            <p>Mempertandingkan tentang kualitas kopi mulai dari olahan.</p>
                         </div>
                     </div>
                 </div>
