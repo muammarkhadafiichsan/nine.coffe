@@ -7826,11 +7826,11 @@ h1, h2, h3, h4, h5,
 
 .services .icon {
   width: 100px;
-  height: 100px;
+  height: 800px;
   margin: 0 auto;
   position: relative;
   z-index: 0;
-  bordeR: 1px solid #674c27; }
+  bordeR: 5px solid #674c27; }
   .services .icon span {
     font-size: 60px;
     color: #1d150b;

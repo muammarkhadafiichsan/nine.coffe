@@ -84,9 +84,8 @@
             <div class="row">
                 <div class="col-md-4 ftco-animate">
                     <div class="media d-block text-center block-6 services">
-                        <div class="icon d-flex justify-content-center align-items-center mb-5">
-                            <span class=""></span>
-                        </div>
+                        <img class="icon d-flex justify-content-center align-items-center mb-5" src="assets/images/juara1.jpg">
+
                         <div class="media-body">
                             <h3 class="heading">BARISTA CHAMPIONSHIP</h3>
                             <p>Juara 1 di jakarta ini memperlombkan barista - barista terbaik di Indonesia</p>
@@ -95,9 +94,8 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="media d-block text-center block-6 services">
-                        <div class="icon d-flex justify-content-center align-items-center mb-5">
-                            <span class=""></span>
-                        </div>
+                        <img class="icon d-flex justify-content-center align-items-center mb-5" src="assets/images/juara3.jpg">
+
                         <div class="media-body">
                             <h3 class="heading">COFFE BEANS </h3>
                             <p>Juara terhadap kualitas kopi dan dipertandingkan dengan kopi - kopi di daerah lain seluruh Indonesia</p>
@@ -106,8 +104,8 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="media d-block text-center block-6 services">
-                        <div class="icon d-flex justify-content-center align-items-center mb-5">
-                            <span class=""></span></div>
+                        <img class="icon d-flex justify-content-center align-items-center mb-5" src="assets/images/juara1.jpg">
+
                         <div class="media-body">
                             <h3 class="heading">Quality Coffee</h3>
                             <p>Mempertandingkan tentang kualitas kopi mulai dari olahan.</p>
