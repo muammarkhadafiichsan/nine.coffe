@@ -55,7 +55,7 @@
 
 
     <section class="ftco-about d-md-flex">
-        <div class="one-half img rounded-circle" style="background-image: url(assets/images/nine_logo.png);" width="500"></div>
+        <div class="one-half img" style="background-image: url(assets/images/nine_logo.png);" width="400"></div>
 
 
 
@@ -65,7 +65,7 @@
         <div class="one-half ftco-animate">
             <div class="overlap">
                 <div class="heading-section ftco-animate ">
-                    <span class="subheading">history</span>
+                    <span class="subheading mb-2">History</span>
                     <h2 class="mb-4">NINE-COFFE</h2>
                 </div>
                 <div>
