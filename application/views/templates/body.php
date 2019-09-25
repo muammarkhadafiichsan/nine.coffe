@@ -3,7 +3,7 @@
     <!-- END nav -->
 
     <section class="home-slider owl-carousel">
-        <div class="slider-item" style="background-image: url(images/kebun_kopi.jpg);">
+        <div class="slider-item" style="background-image: url(assets/images/kebun_kopi.jpg);" alt="">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
@@ -35,7 +35,7 @@
             </div>
         </div>
 
-        <div class="slider-item" style="background-image: url(images/bg_3.jpg);">
+        <div class="slider-item" style="background-image: url(assets/images/bg_3.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
@@ -55,7 +55,7 @@
 
 
     <section class="ftco-about d-md-flex">
-        <div class="one-half img" style="background-image: url(assets/images/nine_logo.png);"></div>
+        <div class="one-half img rounded-circle" style="background-image: url(assets/images/nine_logo.png);" width="500"></div>
 
 
 
