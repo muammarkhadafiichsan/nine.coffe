@@ -9,7 +9,6 @@ class Menu_produk extends CI_Controller
         $this->load->view('templates/header');
         $this->load->view('templates/navbar');
         $this->load->view('menu/produk');
-        $this->load->view('templates/down_bar');
         $this->load->view('templates/footer');
     }
 }
