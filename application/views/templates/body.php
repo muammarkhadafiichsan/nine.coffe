@@ -12,7 +12,8 @@
                         <span class="subheading">Selamat Datang</span>
                         <h1 class="mb-4">Kopi Terbaik Bondowoso</h1>
                         <p class="mb-4 mb-md-5">Kopi yang ditanam di lahan yang luas dengan kontur tanah yang sesuai dan diolah dengan canggih dan higienis agar dapat menciptakan biji kopi terbaik.</p>
-                        <p> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
+                        <p> <a href="<?= base_url('Auth//view_kopi');
+                                        ?>" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
                     </div>
 
                 </div>
@@ -134,9 +135,9 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-5 mb-md-5">
-                    
-                        </div>
-                        
+
+                </div>
+
                 <div class="col-lg-2 col-md-6 mb-5 mb-md-5">
                     <div class="ftco-footer-widget mb-4 ml-md-4">
                         <h2 class="ftco-heading-2">Services</h2>
