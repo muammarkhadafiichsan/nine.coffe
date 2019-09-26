@@ -63,8 +63,8 @@
         <div class="one-half ftco-animate">
             <div class="overlap">
                 <div class="heading-section ftco-animate ">
-                    <h3 class="heading">History</h3>
-                    <h2 class="mb-4">NINE-COFFE</h2>
+                    <h3 class="heading">HISTORY</h3>
+                    <h2 class="mb-4">NINE - COFFE</h2>
                 </div>
                 <div>
                     <p>Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</p>
@@ -74,41 +74,40 @@
         </div>
     </section>
 
-    <section class="ftco-section ftco-services">
+    <hr>
+
+    <section class="ftco-section">
         <div class="container">
-            <div class="col-md-15 col-sm-15 text-center">
-
-                <h3 class="heading mb-4">ACHIEVEMENT</h3>
-
-            </div>
-            <div class="row">
-                <div class="col-md-4 ftco-animate">
-                    <div class="media d-block text-center block-6 services">
-                        <img class="icon d-flex justify-content-center align-items-center mb-5" src="assets/images/juara1.jpg">
-
-                        <div class="media-body">
-                            <h3 class="heading">BARISTA CHAMPIONSHIP</h3>
-                            <p>Juara 1 di jakarta ini memperlombkan barista - barista terbaik di Indonesia</p>
-                        </div>
-                    </div>
+            <div class="row align-items-center">
+                <div class="col-md-6 pr-md-5">
+                    <div class="heading-section text-md-right ftco-animate">
+                
+                <h2 class="mb-4">ACHIEVEMENT</h2>
+                <p class="mb-4">Prestasi Nine-Coffe dari berbagai lomba atau festival dalam bidang kopi di Kabupaten Bondowoso yang menjadikan Nine-Coffe sebagai salah satu perusahaan kopi terbaik di Kabupaten Bondowoso. </p>
+                <p><a href="#" class="btn btn-primary btn-outline-primary px-4 py-3">Lihat Selengkapnya</a></p>
+              </div>
                 </div>
-                <div class="col-md-4 ftco-animate">
-                    <div class="media d-block text-center block-6 services">
-                        <img class="icon d-flex justify-content-center align-items-center mb-5" src="assets/images/juara3.jpg">
-
-                        <div class="media-body">
-                            <h3 class="heading">COFFE BEANS </h3>
-                            <p>Juara terhadap kualitas kopi dan dipertandingkan dengan kopi - kopi di daerah lain seluruh Indonesia</p>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="menu-entry">
+                                <a href="#" class="img" style="background-image: url(assets/images/juara_satu.jpg);"></a>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-md-4 ftco-animate">
-                    <div class="media d-block text-center block-6 services">
-                        <img class="icon d-flex justify-content-center align-items-center mb-5" src="assets/images/juara1.jpg">
-
-                        <div class="media-body">
-                            <h3 class="heading">Quality Coffee</h3>
-                            <p>Mempertandingkan tentang kualitas kopi mulai dari olahan.</p>
+                        <div class="col-md-6">
+                            <div class="menu-entry mt-lg-4">
+                                <a href="#" class="img" style="background-image: url(assets/images/juara_tiga.jpg);"></a>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="menu-entry">
+                                <a href="#" class="img" style="background-image: url(assets/images/juara_satu.jpg);"></a>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="menu-entry mt-lg-4">
+                                <a href="#" class="img" style="background-image: url(assets/images/juara_tiga.jpg);"></a>
+                            </div>
                         </div>
                     </div>
                 </div>
