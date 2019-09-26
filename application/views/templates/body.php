@@ -55,13 +55,11 @@
 
 
     <section class="ftco-about d-md-flex">
+
         <div class="one-half img mb-md-5 mt-5 ml-5 mr-5" style="background-image: url(assets/images/logo_fix.jpg);" width="1080px"></div>
 
 
-
-
-
-
+        <div class="one-half img col-md-4 mb-5 mt-5" style="background-image: url(assets/images/logo_fix.jpg);"></div>
         <div class="one-half ftco-animate">
             <div class="overlap">
                 <div class="heading-section ftco-animate ">
@@ -79,7 +77,7 @@
         <div class="container">
             <div class="col-md-15 col-sm-15 text-center">
 
-                <h1 class="mb-4">ACHIEVEMENT</h1>
+                <h3 class="heading mb-4">ACHIEVEMENT</h3>
 
             </div>
             <div class="row">
