@@ -5,7 +5,7 @@
             <div class="col-lg-3 col-md-6 mb-5 mb-md-5">
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">About Us</h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p>NINE-COFFEE adalah bisnis yang bergerak dibidang kopi.Terletak di Kabupaten Bondowoso yang notabene dijuluki Bondowoso republik kopi 'BRK' </p>
                     <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                         <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                         <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -21,10 +21,10 @@
                 <div class="ftco-footer-widget mb-4 ml-md-4">
                     <h2 class="ftco-heading-2">Services</h2>
                     <ul class="list-unstyled">
-                        <li><a href="#" class="py-2 d-block">Cooked</a></li>
-                        <li><a href="#" class="py-2 d-block">Deliver</a></li>
-                        <li><a href="#" class="py-2 d-block">Quality Foods</a></li>
-                        <li><a href="#" class="py-2 d-block">Mixed</a></li>
+                        <li><a href="#" class="py-2 d-block">CAFE</a></li>
+                        <li><a href="#" class="py-2 d-block">PENGGILINGAN KOPI</a></li>
+                        <li><a href="#" class="py-2 d-block">KEBUN KOPI</a></li>
+                        <li><a href="#" class="py-2 d-block">PRODUK KOPI</a></li>
                     </ul>
                 </div>
             </div>
