@@ -3,7 +3,7 @@
     <!-- END nav -->
 
     <section class="home-slider owl-carousel">
-        <div class="slider-item" style="background-image: url(assets/images/kebun_kopi.jpg);" alt="">
+        <div class="slider-item" style="background-image: url(assets/images/bijikopi.jpeg);" alt="">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
@@ -20,7 +20,7 @@
             </div>
         </div>
 
-        <div class="slider-item" style="background-image: url(assets/images/pabrik_kotor.jpg);">
+        <div class="slider-item" style="background-image: url(assets/images/bijikopi2.jpeg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
@@ -55,7 +55,7 @@
 
 
     <section class="ftco-about d-md-flex">
-        <div class="one-half img col-md-4 mb-5 mt-5" style="background-image: url(assets/images/logo_fix.jpg);"></div>
+        <div class="one-half img mb-md-5 mt-5 ml-5 mr-5" style="background-image: url(assets/images/logo_fix.jpg);" width="1080px"></div>
 
 
 

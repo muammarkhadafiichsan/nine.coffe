@@ -17,7 +17,7 @@
                     <div class="dropdown-menu" aria-labelledby="dropdown04">
                         <a class="dropdown-item " href="<?= base_url('Menu_retail');
                                                         '/index' ?>">RETAIL</a>
-                        <a class="dropdown-item " href="<?= base_url('Menu_retail');
+                        <a class="dropdown-item " href="<?= base_url('Menu_kafe');
                                                         '/index' ?>">KAFE</a>
                     </div>
                 </li>
