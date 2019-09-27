@@ -24,12 +24,11 @@
                     </a>
                     <div class="text py-4 d-block">
                         <div class="meta">
-                            <div><a href="#">Sept 28, 2018</a></div>
-                            <div><a href="#">Admin</a></div>
-                            <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                            <div><a href="#">Nov 20, 2016</a></div>
+                            <div><a href="http://banyuwangi.timesindonesia.co.id/read/7513/20161120/124256/wakil-ketua-dprd-kota-batu-kepincut-kopi-bondowoso/">Sumber: TIMESINDONESIA</a></div>
                         </div>
                         <h3 class="heading mt-2"><a href="#">Wakil Ketua DPRD Kota Batu 'Kepincut' Kopi Bondowoso</a></h3>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                        <p>Wakil Ketua DPRD Kota Batu, Jawa Timur, Hari Danah Wahyono, mengaku kagum dengan kopi di Indonesia, salah satunya kopi yang berasal dari lereng pegunungan Ijen, Bondowoso, Jawa Timur..</p>
                         <p><a href="#" class="btn btn-primary btn-outline-primary px-4 py-3">Baca Selengkapnya</a></p>
                     </div>
                 </div>
@@ -40,12 +39,12 @@
                     </a>
                     <div class="text py-4 d-block">
                         <div class="meta">
-                            <div><a href="#">Sept 28, 2018</a></div>
-                            <div><a href="#">Admin</a></div>
-                            <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                            <div><a href="#">Sept 25, 2016</a></div>
+                            <div><a href="https://m.timesindonesia.co.id/read/133387/20160924/074002/nine-coffee-kenalkan-kopi-bondowoso-melalui-franchise/">Sumber: TIMESINDONESIA</a></div>
+                            
                         </div>
                         <h3 class="heading mt-2"><a href="#">Nine Coffee, Kenalkan Kopi Bondowoso Melalui Franchise</a></h3>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                        <p>Upaya edukasi 'Bondowoso Republik Kopi (BRK)' terus berkembang. Seperti yang dilakukan oleh Nine Coffe, salah satu usaha kopi di kalangan pemuda di BRK. Sebagai pengusaha muda di dunia perkopian, selain melakukan edukasi kepada masyarakat Bondowoso Nine Coffee akan membentuk 'franchise' dibeberapa daerah di Indonesia.</p>
                         <p><a href="#" class="btn btn-primary btn-outline-primary px-4 py-3">Baca Selengkapnya</a></p>
                     </div>
                 </div>
@@ -56,12 +55,11 @@
                     </a>
                     <div class="text py-4 d-block">
                         <div class="meta">
-                            <div><a href="#">Sept 28, 2018</a></div>
-                            <div><a href="#">Admin</a></div>
-                            <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                            <div><a href="#">Sept 24, 2016</a></div>
+                            <div><a href="#">Sumber: TIMESINDONESIA</a></div>
                         </div>
                         <h3 class="heading mt-2"><a href="#">Kopi Terbaik Bondowoso Siap Semarakkan Festival Muharram 2016</a></h3>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                        <p>Pengusaha kopi Bondosowo, Nine Coffe siap menyemarakkan Festival Muharram 2016 yang akan digelar pada awal hingga pertengahan Oktober 2016 mendatang. Festival Muharram yang digelar di Alun-Alun Raden Bagus Asra (RBA) Ki Ronggo Bondowoso tersebut merupakan agenda rutin yang diselenggarakan setiap tahun dalam rangka menyambut tahun baru islam.</p>
                         <p><a href="#" class="btn btn-primary btn-outline-primary px-4 py-3">Baca Selengkapnya</a></p>
                     </div>
                 </div>
