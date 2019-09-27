@@ -10,8 +10,8 @@
 
                     <div class="col-md-8 col-sm-12 text-center ">
                         <span class="subheading">Selamat Datang</span>
-                        <h1 class="mb-4">Kopi Terbaik Bondowoso</h1>
-                        <p class="mb-4 mb-md-5">Kopi yang ditanam di lahan yang luas dengan kontur tanah yang sesuai dan diolah dengan canggih dan higienis agar dapat menciptakan biji kopi terbaik.</p>
+                        <h1 class="mb-4">Kopi Bondowoso</h1>
+                        <p class="mb-4 mb-md-5">Bondowoso di kenal sebagai salahb satu sentra penghasil kopi terbaik di Indonesia. NINE-COFFE sendiri salah satu bisnis yang bergerak dibidang kopi.</p>
                         <p> <a href="<?= base_url('Auth//view_kopi');
                                         ?>" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
                     </div>
