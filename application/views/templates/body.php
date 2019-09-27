@@ -11,7 +11,7 @@
                     <div class="col-md-8 col-sm-12 text-center ">
                         <span class="subheading">Selamat Datang</span>
                         <h1 class="mb-4">Kopi Bondowoso</h1>
-                        <p class="mb-4 mb-md-5">Bondowoso di kenal sebagai salahb satu sentra penghasil kopi terbaik di Indonesia. NINE-COFFE sendiri salah satu bisnis yang bergerak dibidang kopi.</p>
+                        <p class="mb-4 mb-md-5">Bondowoso di kenal sebagai salah satu sentra penghasil kopi terbaik di Indonesia. NINE-COFFE sendiri salah satu bisnis yang bergerak dibidang kopi.</p>
                         <p> <a href="<?= base_url('Auth//view_kopi');
                                         ?>" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
                     </div>
@@ -36,16 +36,16 @@
             </div>
         </div>
 
-        <div class="slider-item" style="background-image: url(assets/images/proses.jpg);">
+        <div class="slider-item" style="background-image: url(assets/images/proses2.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
                     <div class="col-md-8 col-sm-12 text-center ftco-animate">
                         <span class="subheading">Selamat Datang</span>
-                        <h1 class="mb-4">Proses Pengemasan Kopi</h1>
-                        <p class="mb-4 mb-md-5">biji kopi yang sudah disiapkan akan dikemas kedalam plastik - plastik kecil untuk di salurkan ke toko - toko atau cafe yang menjadi reseller kami. </p>
-                        <p><a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
+                        <h1 class="mb-4">Pabrik Bersih</h1>
+                        <p class="mb-4 mb-md-5">. </p>
+                       
                     </div>
 
                 </div>
