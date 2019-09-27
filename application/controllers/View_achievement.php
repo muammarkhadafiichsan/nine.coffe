@@ -9,7 +9,7 @@ class View_achievement extends CI_Controller
     {
         $this->load->view('templates/header');
         $this->load->view('templates/navbar');
-        $this->load->view('templates/body');
+        $this->load->view('tampilan/view_achievement');
         $this->load->view('templates/footer');
     }
 }
