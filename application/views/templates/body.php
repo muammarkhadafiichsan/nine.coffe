@@ -36,7 +36,7 @@
             </div>
         </div>
 
-        <div class="slider-item" style="background-image: url(assets/images/pabrik_bersih.jpg);">
+        <div class="slider-item" style="background-image: url(assets/images/proses.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
