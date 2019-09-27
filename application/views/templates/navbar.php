@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-        <img class="image" border="0" src="<?php echo base_url() .  "assets/images/logo_navbar.png"; ?>" width="225px" style=": 1px;padding: 0px color:white;"> </li>
+        <img class="image" border="0" src="<?php echo base_url() .  "assets/images/logo_nav.png"; ?>" width="225px" style=": 1px;padding: 0px color:white;"> </li>
 
         <a class="navbar-brand" href="index.html"><small></small></a>
 
