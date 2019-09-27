@@ -26,9 +26,7 @@
         <div class="row">
           <div class="col-md-12 nav-link-wrap mb-5">
             <div class="nav ftco-animate nav-pills justify-content-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-              <a class="nav-link active" id="v-pills-0-tab" data-toggle="pill" href="#v-pills-0" role="tab" aria-controls="v-pills-0" aria-selected="true">Robusta</a>
-
-              <a class="nav-link" id="v-pills-1-tab" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="false">Arabica</a>
+              <a class="nav-link active" id="v-pills-0-tab" data-toggle="pill" role="tab" aria-controls="v-pills-0" aria-selected="true">Signature NineCoffee</a>
             </div>
           </div>
           <div class="col-md-12 d-flex align-items-center">
