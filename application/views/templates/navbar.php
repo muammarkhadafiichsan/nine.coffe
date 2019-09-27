@@ -23,7 +23,8 @@
                 </li>
                 <li class="nav-item "><a href="<?= base_url('Menu_berita');
                                                 '/index' ?>" class="nav-link">NEWS</a></li>
-                <li class="nav-item"><a href="contact.html" class="nav-link">PARTNER</a></li>
+                <li class="nav-item "><a href="<?= base_url('Menu_patner');
+                                                '/index' ?>" class="nav-link">PATNER</a></li>
 
             </ul>
         </div>
