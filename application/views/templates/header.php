@@ -2,13 +2,11 @@
 <html lang="en">
 
 <head>
-    <title>NINE - COFFE</title>
+    <title>NINE - COFFEE</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="shortcut icon" type="text/css" href="<?php echo base_url(). "assets/images/nine_logo.png"; ?>"
-
-    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+    <link rel="shortcut icon" type="text/css" href="<?php echo base_url() . "assets/images/nine_logo.png"; ?>" <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
 
