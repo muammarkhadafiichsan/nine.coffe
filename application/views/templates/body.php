@@ -84,7 +84,7 @@
                 
                 <h2 class="mb-4">ACHIEVEMENT</h2>
                 <p class="mb-4">Prestasi Nine-Coffe dari berbagai lomba atau festival dalam bidang kopi di Kabupaten Bondowoso yang menjadikan Nine-Coffe sebagai salah satu perusahaan kopi terbaik di Kabupaten Bondowoso. </p>
-                <p><a href="#" class="btn btn-primary btn-outline-primary px-4 py-3">Lihat Selengkapnya</a></p>
+                <p><a href="<?= base_url('View_achievement') ; '/index' ?>" class="btn btn-primary btn-outline-primary px-4 py-3">Lihat Selengkapnya</a></p>
               </div>
                 </div>
                 <div class="col-md-6">
