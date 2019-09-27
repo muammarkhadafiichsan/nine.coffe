@@ -84,7 +84,7 @@
                 <div class="row">
                   <div class="col-md-3">
                     <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(images/menu-1.jpg);"></a>
+                      <a href="#" class="img" style="background-image: url(assets/images/produk1.jpeg);"></a>
                       <div class="text text-center pt-4">
                         <h3><a href="product-single.html">Coffee Capuccino</a></h3>
                         <p>A small river named Duden flows by their place and supplies</p>
@@ -94,7 +94,7 @@
                   </div>
                   <div class="col-md-3">
                     <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(images/menu-2.jpg);"></a>
+                      <a href="#" class="img" style="background-image: url(assets/images/produk2.jpeg);"></a>
                       <div class="text text-center pt-4">
                         <h3><a href="product-single.html">Coffee Capuccino</a></h3>
                         <p>A small river named Duden flows by their place and supplies</p>
@@ -104,7 +104,7 @@
                   </div>
                   <div class="col-md-3">
                     <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(images/menu-3.jpg);"></a>
+                      <a href="#" class="img" style="background-image: url(assets/images/produk3.jpeg);"></a>
                       <div class="text text-center pt-4">
                         <h3><a href="product-single.html">Coffee Capuccino</a></h3>
                         <p>A small river named Duden flows by their place and supplies</p>
@@ -115,6 +115,16 @@
                   <div class="col-md-3">
                     <div class="menu-entry">
                       <a href="#" class="img" style="background-image: url(images/menu-4.jpg);"></a>
+                      <div class="text text-center pt-4">
+                        <h3><a href="product-single.html">Coffee Capuccino1</a></h3>
+                        <p>A small river named Duden flows by their place and supplies</p>
+
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3">
+                    <div class="menu-entry">
+                      <a href="#" class="img" style="background-image: url(assets/images/produk3.jpeg);"></a>
                       <div class="text text-center pt-4">
                         <h3><a href="product-single.html">Coffee Capuccino</a></h3>
                         <p>A small river named Duden flows by their place and supplies</p>
