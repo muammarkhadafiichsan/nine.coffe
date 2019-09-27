@@ -20,7 +20,7 @@
             </div>
         </div>
 
-        <div class="slider-item" style="background-image: url(assets/images/bijikopi2.jpeg);">
+        <div class="slider-item" style="background-image: url(assets/images/bijikopi21.jpeg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
@@ -45,7 +45,7 @@
                         <span class="subheading">Selamat Datang</span>
                         <h1 class="mb-4">Pabrik Bersih</h1>
                         <p class="mb-4 mb-md-5">. </p>
-                       
+
                     </div>
 
                 </div>
@@ -68,7 +68,8 @@
                 </div>
                 <div>
                     <p>Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</p>
-                    <p><a href="<?= base_url('Profil'); '/index'?>" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3 ">Baca Selengkapnya</a></p>
+                    <p><a href="<?= base_url('Profil');
+                                '/index' ?>" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3 ">Baca Selengkapnya</a></p>
                 </div>
             </div>
         </div>
@@ -81,11 +82,12 @@
             <div class="row align-items-center">
                 <div class="col-md-6 pr-md-5">
                     <div class="heading-section text-md-right ftco-animate">
-                
-                <h2 class="mb-4">ACHIEVEMENT</h2>
-                <p class="mb-4">Prestasi Nine-Coffe dari berbagai lomba atau festival dalam bidang kopi di Kabupaten Bondowoso yang menjadikan Nine-Coffe sebagai salah satu perusahaan kopi terbaik di Kabupaten Bondowoso. </p>
-                <p><a href="<?= base_url('View_achievement') ; '/index' ?>" class="btn btn-primary btn-outline-primary px-4 py-3">Lihat Selengkapnya</a></p>
-              </div>
+
+                        <h2 class="mb-4">ACHIEVEMENT</h2>
+                        <p class="mb-4">Prestasi Nine-Coffe dari berbagai lomba atau festival dalam bidang kopi di Kabupaten Bondowoso yang menjadikan Nine-Coffe sebagai salah satu perusahaan kopi terbaik di Kabupaten Bondowoso. </p>
+                        <p><a href="<?= base_url('View_achievement');
+                                    '/index' ?>" class="btn btn-primary btn-outline-primary px-4 py-3">Lihat Selengkapnya</a></p>
+                    </div>
                 </div>
                 <div class="col-md-6">
                     <div class="row">
