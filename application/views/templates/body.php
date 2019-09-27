@@ -3,7 +3,7 @@
     <!-- END nav -->
 
     <section class="home-slider owl-carousel">
-        <div class="slider-item" style="background-image: url(assets/images/produk_kopi.jpg);" alt="">
+        <div class="slider-item" style="background-image: url(assets/images/arabica1.jpg);" alt="">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
