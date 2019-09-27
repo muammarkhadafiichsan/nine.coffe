@@ -86,7 +86,7 @@
                     <div class="menu-entry">
                       <a href="#" class="img" style="background-image: url(assets/images/produk1.jpeg);"></a>
                       <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Coffee Capuccino</a></h3>
+                        <h3><a href="product-single.html">Specialty Arabica</a></h3>
                         <p>A small river named Duden flows by their place and supplies</p>
 
                       </div>
@@ -96,7 +96,7 @@
                     <div class="menu-entry">
                       <a href="#" class="img" style="background-image: url(assets/images/produk2.jpeg);"></a>
                       <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Coffee Capuccino</a></h3>
+                        <h3><a href="product-single.html">Arabica Peaberry Ijen Bondowoso</a></h3>
                         <p>A small river named Duden flows by their place and supplies</p>
 
                       </div>
@@ -106,7 +106,7 @@
                     <div class="menu-entry">
                       <a href="#" class="img" style="background-image: url(assets/images/produk3.jpeg);"></a>
                       <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Coffee Capuccino</a></h3>
+                        <h3><a href="product-single.html">Arabica Civet Coffee</a></h3>
                         <p>A small river named Duden flows by their place and supplies</p>
 
                       </div>
