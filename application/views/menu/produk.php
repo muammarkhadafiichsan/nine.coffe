@@ -19,125 +19,91 @@
 </section>
 
 
-<section class="ftco-menu mb-5 pb-5">
-  <div class="container">
-    <div class="row d-md-flex">
-      <div class="col-lg-12 ftco-animate p-md-5">
-        <div class="row">
-          <div class="col-md-12 nav-link-wrap mb-5">
-            <div class="nav ftco-animate nav-pills justify-content-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-              <a class="nav-link active" id="v-pills-0-tab" data-toggle="pill" role="tab" aria-controls="v-pills-0" aria-selected="true">Signature NineCoffee</a>
+    <!--/ PORTFOLIO SECTION -->     
+    <section id="works" class="dark-wrapper">
+        <div class="container">
+            <div class="title text-center">
+                <h2>Our Best Work</h2>
+                <p>ETIAM DIGNISSIM LEO VESTIBULUM VOLUTPAT MORB</p>
+                <hr>
+            </div><!-- end title -->
+                 
+            <div class="text-center clearfix">
+                <nav class="portfolio-filter">
+                    <ul>
+                        <li><a class="btn btn-primary" href="#" data-filter="*"><span></span>SIGNATURE NINE COFFEE</a></li>
+                        
+                    </ul>
+                </nav>
             </div>
-          </div>
-          <div class="col-md-12 d-flex align-items-center">
+                 
+        <div class="norow">
+          <div class="masonry_wrapper" data-scroll-reveal="enter from the bottom after 0.5s">
+                        <div class="item entry item-h2 photography print">
+                          <img src="assets/images/produk2.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_01.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                                <div class="buttons">
+                                    <h4>Portfolio Work</h4>
+                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+                                </div><!-- end buttons -->
+                            </div><!-- end hovereffect -->
+                        </div>
+                        
+                        <div class="item entry item-h2 webdesign print">
+                          <img src="assets/images/produk3.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_02.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                                <div class="buttons">
+                                    <h4>Portfolio Work</h4>
+                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+                                </div><!-- end buttons -->
+                            </div><!-- end hovereffect -->
+                        </div>
+                        
+                        <div class="item entry item-h2 videos print">
+                          <img src="assets/images/produk4.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_03.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                                <div class="buttons">
+                                    <h4>Portfolio Work</h4>
+                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+                                </div><!-- end buttons -->
+                            </div><!-- end hovereffect -->
+                        </div>
+                        
+                        <div class="item entry item-h2 photography">
+                          <img src="assets/images/produk5.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_04.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                                <div class="buttons">
+                                    <h4>Portfolio Work</h4>
+                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+                                </div><!-- end buttons -->
+                            </div><!-- end hovereffect -->
+                        </div>
+                        
+                        <div class="item entry item-h2 videos">
+                          <img src="assets/images/produk2.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_05.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                                <div class="buttons">
+                                    <h4>Portfolio Work</h4>
+                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+                                </div><!-- end buttons -->
+                            </div><!-- end hovereffect -->
+                        </div>
 
-            <div class="tab-content ftco-animate" id="v-pills-tabContent">
-
-              <div class="tab-pane fade show active" id="v-pills-0" role="tabpanel" aria-labelledby="v-pills-0-tab">
-                <div class="row">
-                  <div class="col-md-3">
-                    <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/produk2.jpg);"></a>
-                      <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">ARABIKA IJEN SPECIALTY 'BEANS'</a></h3>
-                        <p></p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/produk3.jpg);"></a>
-                      <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">ARABIKA IJEN BONDOWOSO</a></h3>
-                        <p></p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/produk4.jpg);"></a>
-                      <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">ARABIKA IJEN SPECIALTY</a></h3>
-                        <p></p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/produk5.jpg);"></a>
-                      <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">ROBUSTA IJEN BONDOWOSO</a></h3>
-                        <p></p>
-
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="tab-pane fade" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
-                <div class="row">
-                  <div class="col-md-3">
-                    <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/produk1.jpeg);"></a>
-                      <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Specialty Arabica</a></h3>
-                        <p>A small river named Duden flows by their place and supplies</p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/produk2.jpeg);"></a>
-                      <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Arabica Peaberry Ijen Bondowoso</a></h3>
-                        <p>A small river named Duden flows by their place and supplies</p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/produk3.jpeg);"></a>
-                      <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Arabica Civet Coffee</a></h3>
-                        <p>A small river named Duden flows by their place and supplies</p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(images/menu-4.jpg);"></a>
-                      <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Coffee Capuccino1</a></h3>
-                        <p>A small river named Duden flows by their place and supplies</p>
-
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3">
-                    <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/produk3.jpeg);"></a>
-                      <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Coffee Capuccino</a></h3>
-                        <p>A small river named Duden flows by their place and supplies</p>
-
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  </div>
-  </div>
-</section>
+                        <div class="item entry item-h2 webdesign">
+                          <img src="assets/images/produk3.jpg" alt="" class="img-responsive">
+                            <div class="hovereffect">
+                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_06.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
+                                <div class="buttons">
+                                    <h4>Portfolio Work</h4>
+                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+                                </div><!-- end buttons -->
+                            </div><!-- end hovereffect -->
+                        </div>
+                                              
+          
+    </section><!-- end work -->
