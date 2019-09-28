@@ -9,7 +9,7 @@
                     <div class="col-md-8 col-sm-12 text-center ">
                         <span class="subheading">Selamat Datang</span>
                         <h1 class="mb-4">Kopi Bondowoso</h1>
-                        <p class="mb-4 mb-md-5">Bondowoso di kenal sebagai salah satu sentra penghasil kopi terbaik di Indonesia. NINE-COFFE sendiri salah satu bisnis yang bergerak dibidang kopi.</p>
+                        <p class="mb-4 mb-md-5">Bondowoso dikenal sebagai salah satu sentra penghasil kopi terbaik di Indonesia. NINE-COFFE sendiri salah satu bisnis yang bergerak dibidang kopi.</p>
                         <p> <a href="<?= base_url('Menu_produk');
                                         '/index'
                                         ?>" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
@@ -43,7 +43,7 @@
                     <div class="col-md-8 col-sm-12 text-center ftco-animate">
 
                         <h1 class="mb-4">Pabrik Bersih</h1>
-                        <p class="mb-4 mb-md-5"> Di proses ini biji kopi yang siap diproduksi akan dibawa ke pabrik bersih lalu disangrai kemudia dikemas.</p>
+                        <p class="mb-4 mb-md-5"> Di proses ini biji kopi yang siap diproduksi akan dibawa ke pabrik bersih lalu disangrai kemudian dikemas.</p>
 
                     </div>
 
