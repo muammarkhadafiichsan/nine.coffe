@@ -37,40 +37,40 @@
                 <div class="row">
                   <div class="col-md-3">
                     <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/kopi1.jpg);"></a>
+                      <a href="#" class="img" style="background-image: url(assets/images/produk2.jpg);"></a>
                       <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Coffee Capuccino</a></h3>
-                        <p>A small river named Duden flows by their place and supplies</p>
+                        <h3><a href="product-single.html">ARABIKA IJEN SPECIALTY 'BEANS'</a></h3>
+                        <p></p>
 
                       </div>
                     </div>
                   </div>
                   <div class="col-md-3">
                     <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/kopi2.jpg);"></a>
+                      <a href="#" class="img" style="background-image: url(assets/images/produk3.jpg);"></a>
                       <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Coffee Capuccino</a></h3>
-                        <p>A small river named Duden flows by their place and supplies</p>
+                        <h3><a href="product-single.html">ARABIKA IJEN BONDOWOSO</a></h3>
+                        <p></p>
 
                       </div>
                     </div>
                   </div>
                   <div class="col-md-3">
                     <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/kopi3.jpg);"></a>
+                      <a href="#" class="img" style="background-image: url(assets/images/produk4.jpg);"></a>
                       <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Coffee Capuccino</a></h3>
-                        <p>A small river named Duden flows by their place and supplies</p>
+                        <h3><a href="product-single.html">ARABIKA IJEN SPECIALTY</a></h3>
+                        <p></p>
 
                       </div>
                     </div>
                   </div>
                   <div class="col-md-3">
                     <div class="menu-entry">
-                      <a href="#" class="img" style="background-image: url(assets/images/kopi4.jpg);"></a>
+                      <a href="#" class="img" style="background-image: url(assets/images/produk5.jpg);"></a>
                       <div class="text text-center pt-4">
-                        <h3><a href="product-single.html">Coffee Capuccino</a></h3>
-                        <p>A small river named Duden flows by their place and supplies</p>
+                        <h3><a href="product-single.html">ROBUSTA IJEN BONDOWOSO</a></h3>
+                        <p></p>
 
                       </div>
                     </div>
