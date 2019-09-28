@@ -1,4 +1,4 @@
-<script src="http://maps.google.com/maps/api/js?sensor=false"></script>   
+
     <script src="<?= base_url('assets1/'); ?>js/jquery.js"></script>
     <script src="<?= base_url('assets1/'); ?>js/bootstrap.js"></script>
     <script src="<?= base_url('assets1/'); ?>js/smooth-scroll.js"></script>
