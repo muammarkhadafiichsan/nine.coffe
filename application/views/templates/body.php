@@ -25,10 +25,10 @@
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
                     <div class="col-md-8 col-sm-12 text-center ftco-animate">
-                        <span class="subheading">Selamat Datang</span>
+
                         <h1 class="mb-4">Proses Pengolahan Kopi Pasca Panen</h1>
                         <p class="mb-4 mb-md-5">Setelah biji kopi dipanen, kemudian diproses di pabrik untuk disortir kembali untuk dipilih biji kopi terbaik.</p>
-                        <p><a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
+
                     </div>
 
                 </div>
@@ -41,9 +41,9 @@
                 <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
                     <div class="col-md-8 col-sm-12 text-center ftco-animate">
-                        <span class="subheading">Selamat Datang</span>
+
                         <h1 class="mb-4">Pabrik Bersih</h1>
-                        <p class="mb-4 mb-md-5">. </p>
+                        <p class="mb-4 mb-md-5"> Di proses ini biji kopi yang siap diproduksi akan dibawa ke pabrik bersih lalu disangrai kemudia dikemas.</p>
 
                     </div>
 

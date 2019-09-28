@@ -6,11 +6,7 @@
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">About Us</h2>
                     <p>NINE-COFFEE adalah bisnis yang bergerak dibidang kopi. Terletak di Kabupaten Bondowoso yang notabene dijuluki Bondowoso Republik Kopi 'BRK' </p>
-                    <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                        <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                        <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                        <li class="ftco-animate"><a href="https://www.instagram.com/nine.coffee/"><span class="icon-instagram"></span></a></li>
-                    </ul>
+
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-5 mb-md-5">
@@ -36,8 +32,10 @@
                             <li><span class="icon icon-map-marker"></span><span class="text">
                                     Jl. Jaksa Agung
                                     Kabupaten Bondowoso 68211</span></li>
-                            <li><a href="#"><span class="icon icon-phone"></span><span class="text">+62 896 8316 1230</span></a></li>
-                            <li><a href="#"><span class="icon icon-envelope"></span><span class="text">ninecoffee@gmail.com</span></a></li>
+                            <li><a href="#"><span class="icon icon-phone"></span><span class="text">+62 812-9312-0562 (Riswanda)</span></a></li>
+                            <li><a href="#"><span class="icon icon-envelope"></span><span class="text ">ninecoffee@gmail.com</span></a></li>
+
+                            <li><a href="https://www.instagram.com/nine.coffee/"><span class="icon-instagram"></span><span class="text mb-3">OFFICIAL INSTAGRAM</span></a></li>
                         </ul>
                     </div>
                 </div>

@@ -24,7 +24,7 @@
         <h2 class="mb-4">Nine Coffee</h2>
       </div>
       <div>
-        <p>Nine Coffee merupakan perusahaan swasta yang berada di Kabupaten Bondowoso yang bergerak dalam bidang pertanian serta pengolahan tanaman kopi khususnya yang berada di Kabupaten Bondowoso. Selain bekerjasama dengan beberapa pengurus kopi rakyat, Nine Coffee juga memiliki lahan seluas 6 hektar yang berada di kawasan gunung Ijen. Beberapa Produk unggulan Nine Coffe Roastery tidak hanya arabika, namun kopi robusta dan luwak juga tidak kalah pamor.</p>
+        <h6>Nine Coffee merupakan perusahaan swasta yang berada di Kabupaten Bondowoso yang bergerak dalam bidang pertanian serta pengolahan tanaman kopi khususnya yang berada di Kabupaten Bondowoso. Selain bekerjasama dengan beberapa pengurus kopi rakyat, Nine Coffee juga memiliki lahan seluas 6 hektar yang berada di kawasan gunung Ijen. Beberapa Produk unggulan Nine Coffe Roastery tidak hanya arabika, namun kopi robusta dan luwak juga tidak kalah pamor.</h6>
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@
     <div class="row justify-content-center mb-5">
       <div class="col-md-7 heading-section text-center ftco-animate">
         <h2 class="mb-4">Kabupaten Bondowoso</h2>
-        <p>Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</p>
+        <h5>Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</h4>
 
       </div>
     </div>
@@ -48,8 +48,8 @@
     <div class="row align-items-center">
       <div class="col-md-6 pr-md-5">
         <div class="heading-section text-md-right ftco-animate">
-          <h2 class="mb-4">Nine Coffee</h2>
-          <p class="mb-4">Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</p>
+          <h2 class="mb-4">COFFEE BEAN'S</h2>
+          <h5>Pengolaha FULLWASH(wet process) diamana pada masa pengolahan paska panen biji kopi yang telah dipetik 'biji merah' akan melalui fase peambangan untuk membuang kualitas kopi yang mengapung 'kopong' sebelum selanjutnya memasuki masa fermentasi selama kurang lebih 12-36 ja. Setelah itu biji kopi akan dibersihkan dari sisa lendir yang masih menempel sebelum selanjutnya dijemur hingga kadar air hingga 14%</h5>
 
         </div>
       </div>
