@@ -19,91 +19,91 @@
 </section>
 
 
-    <!--/ PORTFOLIO SECTION -->     
-    <section id="works" class="dark-wrapper">
-        <div class="container">
-            <div class="title text-center">
-                <h2>Our Best Work</h2>
-                <p>ETIAM DIGNISSIM LEO VESTIBULUM VOLUTPAT MORB</p>
-                <hr>
-            </div><!-- end title -->
-                 
-            <div class="text-center clearfix">
-                <nav class="portfolio-filter">
-                    <ul>
-                        <li><a class="btn btn-primary" href="#" data-filter="*"><span></span>SIGNATURE NINE COFFEE</a></li>
-                        
-                    </ul>
-                </nav>
-            </div>
-                 
-        <div class="norow">
-          <div class="masonry_wrapper" data-scroll-reveal="enter from the bottom after 0.5s">
-                        <div class="item entry item-h2 photography print">
-                          <img src="assets/images/produk2.jpg" alt="" class="img-responsive">
-                            <div class="hovereffect">
-                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_01.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
-                                <div class="buttons">
-                                    <h4>Portfolio Work</h4>
-                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
-                                </div><!-- end buttons -->
-                            </div><!-- end hovereffect -->
-                        </div>
-                        
-                        <div class="item entry item-h2 webdesign print">
-                          <img src="assets/images/produk3.jpg" alt="" class="img-responsive">
-                            <div class="hovereffect">
-                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_02.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
-                                <div class="buttons">
-                                    <h4>Portfolio Work</h4>
-                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
-                                </div><!-- end buttons -->
-                            </div><!-- end hovereffect -->
-                        </div>
-                        
-                        <div class="item entry item-h2 videos print">
-                          <img src="assets/images/produk4.jpg" alt="" class="img-responsive">
-                            <div class="hovereffect">
-                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_03.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
-                                <div class="buttons">
-                                    <h4>Portfolio Work</h4>
-                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
-                                </div><!-- end buttons -->
-                            </div><!-- end hovereffect -->
-                        </div>
-                        
-                        <div class="item entry item-h2 photography">
-                          <img src="assets/images/produk5.jpg" alt="" class="img-responsive">
-                            <div class="hovereffect">
-                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_04.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
-                                <div class="buttons">
-                                    <h4>Portfolio Work</h4>
-                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
-                                </div><!-- end buttons -->
-                            </div><!-- end hovereffect -->
-                        </div>
-                        
-                        <div class="item entry item-h2 videos">
-                          <img src="assets/images/produk2.jpg" alt="" class="img-responsive">
-                            <div class="hovereffect">
-                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_05.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
-                                <div class="buttons">
-                                    <h4>Portfolio Work</h4>
-                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
-                                </div><!-- end buttons -->
-                            </div><!-- end hovereffect -->
-                        </div>
+<!--/ PORTFOLIO SECTION -->
+<section id="works" class="dark-wrapper">
+  <div class="container">
+    <div class="title text-center">
+      <h2>Our Best Product</h2>
+      <p>Bondowoso Coffee</p>
+      <hr>
+    </div><!-- end title -->
 
-                        <div class="item entry item-h2 webdesign">
-                          <img src="assets/images/produk3.jpg" alt="" class="img-responsive">
-                            <div class="hovereffect">
-                                <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="demos/work_06.jpg"><span class="icon"><i class="fa fa-plus"></i></span></a>
-                                <div class="buttons">
-                                    <h4>Portfolio Work</h4>
-                                    <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
-                                </div><!-- end buttons -->
-                            </div><!-- end hovereffect -->
-                        </div>
-                                              
-          
-    </section><!-- end work -->
+    <div class="text-center clearfix">
+      <nav class="portfolio-filter">
+        <ul>
+          <li><a class="btn btn-primary" href="#" data-filter="*"><span></span>SIGNATURE NINE COFFEE</a></li>
+
+        </ul>
+      </nav>
+    </div>
+
+    <div class="norow">
+      <div class="masonry_wrapper" data-scroll-reveal="enter from the bottom after 0.5s">
+        <div class="item entry item-h2 ">
+          <img src="assets/images/produk2.jpg" alt="" class="img-responsive">
+          <div class="hovereffect">
+            <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
+            <div class="buttons">
+              <h4>ARABICA IJEN SPECIALTY</h4>
+              <h5>Arabica kini hadir dalam bentuk biji yang sudah di sangrai 'roasted'</h5>
+            </div><!-- end buttons -->
+          </div><!-- end hovereffect -->
+        </div>
+
+        <div class="item entry item-h2 webdesign print">
+          <img src="assets/images/produk3.jpg" alt="" class="img-responsive">
+          <div class="hovereffect">
+            <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
+            <div class="buttons">
+              <h4>Portfolio Work</h4>
+              <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+            </div><!-- end buttons -->
+          </div><!-- end hovereffect -->
+        </div>
+
+        <div class="item entry item-h2 videos print">
+          <img src="assets/images/produk4.jpg" alt="" class="img-responsive">
+          <div class="hovereffect">
+            <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
+            <div class="buttons">
+              <h4>Portfolio Work</h4>
+              <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+            </div><!-- end buttons -->
+          </div><!-- end hovereffect -->
+        </div>
+
+        <div class="item entry item-h2 photography">
+          <img src="assets/images/produk5.jpg" alt="" class="img-responsive">
+          <div class="hovereffect">
+            <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
+            <div class="buttons">
+              <h4>Portfolio Work</h4>
+              <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+            </div><!-- end buttons -->
+          </div><!-- end hovereffect -->
+        </div>
+
+        <div class="item entry item-h2 videos">
+          <img src="assets/images/produk2.jpg" alt="" class="img-responsive">
+          <div class="hovereffect">
+            <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
+            <div class="buttons">
+              <h4>Portfolio Work</h4>
+              <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+            </div><!-- end buttons -->
+          </div><!-- end hovereffect -->
+        </div>
+
+        <div class="item entry item-h2 webdesign">
+          <img src="assets/images/produk3.jpg" alt="" class="img-responsive">
+          <div class="hovereffect">
+            <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
+            <div class="buttons">
+              <h4>Portfolio Work</h4>
+              <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+            </div><!-- end buttons -->
+          </div><!-- end hovereffect -->
+        </div>
+
+
+</section><!-- end work -->
