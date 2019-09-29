@@ -1,54 +1,59 @@
-<section class="home-slider owl-carousel">
-	<div class="slider-item" style="background-image: url(assets/images/kafe8.jpg);" alt="">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
+    <section class="home-slider owl-carousel img" style="background-image: url(images/bg_1.jpg);">
+      <div class="slider-item">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row slider-text align-items-center" data-scrollax-parent="true">
 
-				<div class="col-md-8 col-sm-12 text-center ">
-					<span class="subheading">Selamat Datang</span>
-					<h1 class="mb-4">Di Nine Coffee shop</h1>
-					<h5 class="mb-4 mb-md-5">Tempat Tongkrongan yang enak, nyaman dan berkelas ini menyajikan kopi-kopi Bondowoso dengan aneka metode namun dengan harga yang merakyat.</h5>
-					<p> <a href="https://www.google.com/maps/uv?hl=id&pb=!1s0x2dd6dcc2cf7ed559%3A0xf2d80f1d5748f909!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4s%2Fmaps%2Fplace%2Fnine%2Bcoffee%2Bbondowoso%2F%40-7.9145384%2C113.8233632%2C3a%2C75y%2C21.88h%2C90t%2Fdata%3D*213m4*211e1*213m2*211s05o-4PhdN3-MGLztBNABsQ*212e0*214m2*213m1*211s0x2dd6dcc2cf7ed559%3A0xf2d80f1d5748f909%3Fsa%3DX!5snine%20coffee%20bondowoso%20-%20Penelusuran%20Google!15sCAQ&imagekey=!1e2!2s05o-4PhdN3-MGLztBNABsQ&sa=X&ved=2ahUKEwjUxbC4p_XkAhVXeysKHVKiBc4Qpx8wE3oECAwQCw" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3 fal fa-map-marker-alt" > Lihat Lokasi</a></p>
-				</div>
+            <div class="col-md-6 col-sm-12 ftco-animate">
+            	<span class="subheading">Delicious</span>
+	              <h1 class="mb-4">Italian Cuizine</h1>
+	              <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+	              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
+            </div>
+            <div class="col-md-6 ftco-animate">
+            	<img src="images/bg_1.png" class="img-fluid" alt="">
+            </div>
 
-			</div>
-		</div>
-	</div>
+          </div>
+        </div>
+      </div>
 
-	<div class="slider-item" style="background-image: url(assets/images/kafe9.jpg);">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
+      <div class="slider-item">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row slider-text align-items-center" data-scrollax-parent="true">
 
-				<div class="col-md-8 col-sm-12 text-center ftco-animate">
+	            <div class="col-md-6 col-sm-12 order-md-last ftco-animate">
+	            	<span class="subheading">Crunchy</span>
+	              <h1 class="mb-4">Italian Pizza</h1>
+	              <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+	              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
+	            </div>
+            <div class="col-md-6 ftco-animate">
+            	<img src="images/bg_2.png" class="img-fluid" alt="">
+            </div>
 
-					<h1 class="mb-4">Nine Coffee shop</h1>
-					<p class="mb-4 mb-md-5"></p>
-					<h5 class="mb-4 mb-md-5">Tempat yang luas dan pelayanan yang ramah menjadi salah satu daya tarik dari kedai kopi ini. Selain itu kopi-kopi disini juga di racik oleh barista profesional,sehingga rasa nya terjamin.</h5>
+          </div>
+        </div>
+      </div>
 
-				</div>
+      <div class="slider-item" style="background-image: url(images/bg_3.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
-			</div>
-		</div>
-	</div>
+            <div class="col-md-7 col-sm-12 text-center ftco-animate">
+            	<span class="subheading">Welcome</span>
+              <h1 class="mb-4">We cooked your desired Pizza Recipe</h1>
+              <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
+            </div>
 
-	<div class="slider-item" style="background-image: url(assets/images/kafe2.jpeg);">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
+          </div>
+        </div>
+      </div>
+ </section>
 
-				<div class="col-md-8 col-sm-12 text-center ftco-animate">
-
-					<h1 class="mb-4">Tempat yang strategis </h1>
-					<p class="mb-4 mb-md-5"> Nine Coffee terletak di jantung kota Bondowoso ini sangat strategis dan ramai, Beredekatan dengan alun-alun bondowoso ini tidk pernah sepi pengunjung.</p>
-
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-</section>
-<body>
  <section class="ftco-intro">
     	<div class="container-wrap">
     		<div class="wrap d-md-flex">
@@ -87,4 +92,15 @@
     		</div>
     	</div>
     </section>
-    </body>
+
+    <section class="ftco-about d-md-flex">
+    	<div class="one-half img" style="background-image: url(assets/images/kafe_tiga.jpg);"></div>
+    	<div class="one-half ftco-animate">
+        <div class="heading-section ftco-animate ">
+          <h2 class="mb-4">Welcome to <span class="flaticon-pizza">Pizza</span> A Restaurant</h2>
+        </div>
+        <div>
+  				<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+  			</div>
+    	</div>
+    </section>
