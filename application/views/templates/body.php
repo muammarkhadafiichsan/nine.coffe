@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <section class="home-slider owl-carousel">
     <div class="slider-item" style="background-image: url(assets/images/arabica1.jpg);" alt="">
         <div class="overlay"></div>
@@ -29,10 +28,7 @@
                                         '/index'
                                         ?>" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
                     </div>
-
->>>>>>> 370b0d886cc0dfbb3bb5204d448a9c983802feb8
                 </div>
-
             </div>
         </div>
     </div>
@@ -59,19 +55,13 @@
             <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
                 <div class="col-md-8 col-sm-12 text-center ftco-animate">
-
-<<<<<<< HEAD
                     <h1 class="mb-4">Pabrik Bersih</h1>
                     <p class="mb-4 mb-md-5"> Di proses ini biji kopi yang siap diproduksi akan dibawa ke pabrik bersih lalu disangrai kemudia dikemas.</p>
-=======
                         <h1 class="mb-4">Pabrik Bersih</h1>
                         <p class="mb-4 mb-md-5"> Di proses ini biji kopi yang siap diproduksi akan dibawa ke pabrik bersih lalu disangrai kemudian dikemas.</p>
 
                     </div>
->>>>>>> 370b0d886cc0dfbb3bb5204d448a9c983802feb8
-
                 </div>
-
             </div>
         </div>
     </div>
@@ -81,15 +71,12 @@
 <section class="ftco-about d-md-flex">
 
     <div class="one-half img mb-md-5 mt-5 ml-5 mr-5" style="background-image: url(assets/images/logo_nine.png);" width="1080px"></div>
-
-
-
-    <div class="one-half ftco-animate">
-        <div class="overlap">
-            <div class="heading-section ftco-animate ">
-                <h3 class="heading">HISTORY</h3>
-                <h2 class="mb-4">NINE - COFFE</h2>
-            </div>
+        <div class="one-half ftco-animate">
+            <div class="overlap">
+                <div class="heading-section ftco-animate ">
+                    <h3 class="heading">HISTORY</h3>
+                    <h2 class="mb-4">NINE - COFFE</h2>
+                </div>
             <div>
                 <p>Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</p>
                 <p><a href="<?= base_url('Profil');
