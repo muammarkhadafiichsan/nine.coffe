@@ -1,5 +1,5 @@
 <footer class="ftco-footer ftco-section img">
-    
+
     <div class="container">
         <div class="row mb-5">
             <div class="col-lg-3 col-md-6 mb-5 mb-md-5">
@@ -33,9 +33,9 @@
                                     Jl. Jaksa Agung
                                     Kabupaten Bondowoso 68211</span></li>
                             <li><a href="#"><span class="icon icon-phone"></span><span class="text">+62 812-9312-0562 (Riswanda)</span></a></li>
-                            <li><a href="#"><span class="icon icon-envelope"></span><span class="text ">ninecoffee@gmail.com</span></a></li>
+                            <li><a href="#"><span class="icon icon-envelope"></span><span class="text ">-</span></a></li>
 
-                            <li><a href="https://www.instagram.com/nine.coffee/"><span ></span><span class="text mb-3 icon-instagram mt+5">OFFICIAL INSTAGRAM</span></a></li>
+                            <li><a href="https://www.instagram.com/nine.coffee/"><span></span><span class="text mb-3 icon-instagram mt+5">OFFICIAL INSTAGRAM</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -47,6 +47,9 @@
                 <p>
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     &copy; Wanitechnocraft - All right reserved
+                </p>
+                <p>
+                   Beta Version
                 </p>
             </div>
         </div>
