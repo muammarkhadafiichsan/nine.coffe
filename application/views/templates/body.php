@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <section class="home-slider owl-carousel">
     <div class="slider-item" style="background-image: url(assets/images/arabica1.jpg);" alt="">
         <div class="overlay"></div>
@@ -11,6 +12,25 @@
                     <p> <a href="<?= base_url('Menu_produk');
                                     '/index'
                                     ?>" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Lihat Produk</a></p>
+=======
+
+
+    <section class="home-slider owl-carousel">
+        <div class="slider-item" style="background-image: url(assets/images/arabica1.jpg);" alt="">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
+
+                    <div class="col-md-8 col-sm-12 text-center ">
+                        <span class="subheading">Selamat Datang</span>
+                        <h1 class="mb-4">Kopi Bondowoso</h1>
+                        <p class="mb-4 mb-md-5">Bondowoso dikenal sebagai salah satu sentra penghasil kopi terbaik di Indonesia. NINE-COFFE sendiri salah satu bisnis yang bergerak dibidang kopi.</p>
+                        <p> <a href="<?= base_url('Menu_produk');
+                                        '/index'
+                                        ?>" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Baca Selengkapnya</a></p>
+                    </div>
+
+>>>>>>> 370b0d886cc0dfbb3bb5204d448a9c983802feb8
                 </div>
 
             </div>
@@ -40,8 +60,15 @@
 
                 <div class="col-md-8 col-sm-12 text-center ftco-animate">
 
+<<<<<<< HEAD
                     <h1 class="mb-4">Pabrik Bersih</h1>
                     <p class="mb-4 mb-md-5"> Di proses ini biji kopi yang siap diproduksi akan dibawa ke pabrik bersih lalu disangrai kemudia dikemas.</p>
+=======
+                        <h1 class="mb-4">Pabrik Bersih</h1>
+                        <p class="mb-4 mb-md-5"> Di proses ini biji kopi yang siap diproduksi akan dibawa ke pabrik bersih lalu disangrai kemudian dikemas.</p>
+
+                    </div>
+>>>>>>> 370b0d886cc0dfbb3bb5204d448a9c983802feb8
 
                 </div>
 
