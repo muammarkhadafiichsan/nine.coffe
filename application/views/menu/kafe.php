@@ -7,7 +7,7 @@
 				<div class="col-md-8 col-sm-12 text-center ">
 					<span class="subheading">Selamat Datang</span>
 					<h1 class="mb-4">NINE COFFEE ROASTERY 'cafe'</h1>
-					<p class="mb-4 mb-md-5">Tempang ngopi yang nyaman untuk kota yang tenang</p>
+					<p class="mb-4 mb-md-5">Tempat ngopi yang nyaman untuk kota yang tenang</p>
 				</div>
 
 			</div>
@@ -58,22 +58,24 @@
 					<div class="col-md-4 d-flex ftco-animate">
 						<div class="icon"><span class="icon-phone"></span></div>
 						<div class="text">
-							<h3>000 (123) 456 7890</h3>
-							<p>A small river named Duden flows</p>
+							<h3>0812-9247-5083</h3>
+							<p>Nine Coffee Roastery Bondowoso</p>
 						</div>
 					</div>
 					<div class="col-md-4 d-flex ftco-animate">
 						<div class="icon"><span class="icon-my_location"></span></div>
 						<div class="text">
-							<h3>198 West 21th Street</h3>
-							<p>Suite 721 New York NY 10016</p>
+							<h3>Kali Nangkaan, Dabasah</h3>
+							<p>Kec. Bondowoso Kabupaten Bondowoso</p>
+							<p>Jawa Timur 68211</p>
 						</div>
 					</div>
 					<div class="col-md-4 d-flex ftco-animate">
 						<div class="icon"><span class="icon-clock-o"></span></div>
 						<div class="text">
-							<h3>Open Monday-Friday</h3>
-							<p>8:00am - 9:00pm</p>
+							<h3>Buka Jam</h3>
+							<p>Setiap Hari</p>
+							<p>09.00 - 23.00</p>
 						</div>
 					</div>
 				</div>
@@ -84,13 +86,13 @@
 </section>
 
 <section class="ftco-about d-md-flex">
-	<div class="one-half img" style="background-image: url(assets/images/kafe_tiga.jpg);"></div>
+	<div class="one-half img" style="background-image: url(assets/images/kafe10.jpg);"></div>
 	<div class="one-half ftco-animate">
 		<div class="heading-section ftco-animate ">
-			<h2 class="mb-4">Welcome to <span class="flaticon-pizza">Pizza</span> A Restaurant</h2>
+			<h3 class="mb-4">Selamat Datang di Nine <span class="flaticon-pizza">Coffee</span> Roastery Bondowoso</h3>
 		</div>
 		<div>
-			<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+			<p>Nine Coffee merupakan salah satu kafe di Bondowoso yang menyajikan menu minuman dari kopi yang beragam yaitu kopi Robusta dan Arabika. Nine Coffee kafe mengutamakan kopi sebagai sajian utama dalam menu. Pastikan berkunjung dan pesan kopi favoritmu di meja bar kami. </p>
 		</div>
 	</div>
 </section>
