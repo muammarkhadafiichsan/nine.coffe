@@ -10,7 +10,7 @@
 
         <div class="col-md-7 col-sm-12 text-center ftco-animate">
           <h1 class="mb-3 mt-5 bread">PRODUK</h1>
-          <p class="breadcrumbs"><span class="mr-2"><a href="index.html">NINE COFFEE</a></span> </p>
+          <p class="breadcrumbs"><span class="mr-2"><a>NINE COFFEE</a></span> </p>
         </div>
 
       </div>
@@ -44,8 +44,8 @@
           <div class="hovereffect">
             <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
             <div class="buttons">
-              <h4>ARABICA IJEN SPECIALTY</h4>
-              <h5>Arabica kini hadir dalam bentuk biji yang sudah di sangrai 'roasted'</h5>
+              <h4>ARABICA IJEN SPECIALTY 'Beans'</h4>
+              <h5>Kopi arabika terbaik dari kawah ijen bondowoso jawa timur, diolah dengan proses fullwash ( olah basah ), dengan mutu dan kualitas export. Menjanjikan cita rasa yang stabil dan nikmat, dengan sensasi kopi jawa yang melekat tajam. Tersedia dalam bentuk biji sangrai, biji mentah , ataupun bubuk</h5>
             </div><!-- end buttons -->
           </div><!-- end hovereffect -->
         </div>
@@ -55,8 +55,8 @@
           <div class="hovereffect">
             <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
             <div class="buttons">
-              <h4>Portfolio Work</h4>
-              <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+              <h4>ARABICA IJEN BONDOWOSO</h4>
+              <h5>Kopi bubuk siap seduh yang rasanya sangat kuat sehingga memiliki cita rasa yang khas</h5>
             </div><!-- end buttons -->
           </div><!-- end hovereffect -->
         </div>
@@ -66,8 +66,8 @@
           <div class="hovereffect">
             <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
             <div class="buttons">
-              <h4>Portfolio Work</h4>
-              <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+              <h4>ARABICA IJEN SPECIALTY</h4>
+              <h5>Kopi arabika terbaik dari kawah ijen bondowoso jawa timur, diolah dengan proses fullwash ( olah basah ), dengan mutu dan kualitas export. Menjanjikan cita rasa yang stabil dan nikmat, dengan sensasi kopi jawa yang melekat tajam. Tersedia dalam bentuk biji sangrai, biji mentah , ataupun bubuk</h5>
             </div><!-- end buttons -->
           </div><!-- end hovereffect -->
         </div>
@@ -77,33 +77,13 @@
           <div class="hovereffect">
             <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
             <div class="buttons">
-              <h4>Portfolio Work</h4>
-              <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
+              <h4>ROBUSTA IJEN BONDOWOSO</h4>
+              <h5>Kualitas terbaik dari biji kopi pilihan, dengan fisik bulat sempurna yang memiliki karakter kopi yg kuat di bandingkan kopi lain pada umumnya.</h5>
             </div><!-- end buttons -->
           </div><!-- end hovereffect -->
         </div>
 
-        <div class="item entry item-h2 videos">
-          <img src="assets/images/produk2.jpg" alt="" class="img-responsive">
-          <div class="hovereffect">
-            <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
-            <div class="buttons">
-              <h4>Portfolio Work</h4>
-              <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
-            </div><!-- end buttons -->
-          </div><!-- end hovereffect -->
-        </div>
 
-        <div class="item entry item-h2 webdesign">
-          <img src="assets/images/produk3.jpg" alt="" class="img-responsive">
-          <div class="hovereffect">
-            <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
-            <div class="buttons">
-              <h4>Portfolio Work</h4>
-              <h5>WEB DESIGN, LOGO, PRINT, VIDEO</h5>
-            </div><!-- end buttons -->
-          </div><!-- end hovereffect -->
-        </div>
 
 
 </section><!-- end work -->

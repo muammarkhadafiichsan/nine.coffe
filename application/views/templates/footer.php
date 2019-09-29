@@ -35,7 +35,7 @@
                             <li><a href="#"><span class="icon icon-phone"></span><span class="text">+62 812-9312-0562 (Riswanda)</span></a></li>
                             <li><a href="#"><span class="icon icon-envelope"></span><span class="text ">ninecoffee@gmail.com</span></a></li>
 
-                            <li><a href="https://www.instagram.com/nine.coffee/"><span class="icon-instagram"></span><span class="text mb-3">OFFICIAL INSTAGRAM</span></a></li>
+                            <li><a href="https://www.instagram.com/nine.coffee/"><span ></span><span class="text mb-3 icon-instagram mt+5">OFFICIAL INSTAGRAM</span></a></li>
                         </ul>
                     </div>
                 </div>
