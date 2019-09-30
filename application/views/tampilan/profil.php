@@ -17,20 +17,20 @@
 </section>
 
 <section class="ftco-about d-md-flex">
-	<div class="one-half img mb-md-5 mt-5 ml-5 mr-5" style="background-image: url(assets/images/logo_nine.png);" width="1080px"></div>
-	<div class="one-half ftco-animate">
-	  <div class="overlap">
-		<div class="heading-section ftco-animate ">
-		  <h2 class="mb-4">Nine Coffee</h2>
-		</div>
-		<div>
+  <div class="one-half img mb-md-5  ml-3 mr-5"> <img width="400" height="350" src="<?= base_url('assets/images/logo_nine.png');  ?>"></div>
+  <div class="one-half ftco-animate">
+    <div class="overlap">
+      <div class="heading-section ftco-animate ">
+        <h2 class="mb-4">Nine Coffee</h2>
+      </div>
+      <div>
         <h6>Nine Coffee merupakan perusahaan swasta yang berada di Kabupaten Bondowoso yang bergerak dalam bidang pertanian serta pengolahan tanaman kopi khususnya yang berada di Kabupaten Bondowoso. Selain bekerjasama dengan beberapa pengurus kopi rakyat, Nine Coffee juga memiliki lahan seluas 6 hektar yang berada di kawasan gunung Ijen. Beberapa Produk unggulan Nine Coffe Roastery tidak hanya arabika, namun kopi robusta dan luwak juga tidak kalah pamor.</h6>
       </div>
     </div>
   </div>
 </section>
 
-<section class="ftco-section img" id="ftco-testimony" style="background-image: url(images/logo_nine.png);" data-stellar-background-ratio="0.5">
+<section class="ftco-section img" id="ftco-testimony" style="background-image: url(assets/images/logo_nine.png);" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row justify-content-center mb-5">
