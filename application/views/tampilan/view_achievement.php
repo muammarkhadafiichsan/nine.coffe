@@ -1,12 +1,13 @@
-<section class="home-slider owl-carousel">
-    <div class="slider-item" style="background-image: url(assets/images/logo_nine.png);" alt="">
-        <div class="overlay"></div>
-        <div class="container">
-            <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
-            </div>
-        </div>
+<!-- Swiper Silder
+    ================================================== --> 
+<!-- Slider main container -->
+<div class="swiper-container main-slider" id="myCarousel">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide slider-bg-position" style="background:url('assets/images/logo_nine.png')" data-hash="slide1">
+      <h2>Awards Nine Coffee</h2>
     </div>
-</section>
+  </div>
+</div>
 
 <section class="ftco-section">
     <div class="container">
