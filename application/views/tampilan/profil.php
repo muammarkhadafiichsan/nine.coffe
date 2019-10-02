@@ -1,30 +1,23 @@
-<section class="home-slider owl-carousel">
-
-  <div class="slider-item" style="background-image: url(images/bg_4.jpg);" data-stellar-background-ratio="0.5">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row slider-text justify-content-center align-items-center">
-
-        <div class="col-md-7 col-sm-12 text-center ftco-animate">
-          <h1 class="mb-3 mt-5 bread">NINE COFFEE</h1>
-          <p class="breadcrumbs"><span class="mr-2"><a href="index.html">COFFEE ROASTERY</a></span>
-            <p>
-        </div>
-
-      </div>
+<!-- Swiper Silder
+    ================================================== --> 
+<!-- Slider main container -->
+<div class="swiper-container main-slider" id="myCarousel">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide slider-bg-position" style="background:url('')" data-hash="slide1">
+      <h2>Profile Nine Coffee</h2>
     </div>
   </div>
-</section>
+</div>
 
 <section class="ftco-about d-md-flex">
-  <div class="one-half img mb-md-5 mt-5 ml-5 mr-5" style="background-image: url(assets/images/logo_nine.png);" width="1080px"></div>
+  <div class="one-half img mb-md-5  ml-3 mr-5"> <img width="400" height="400" src="<?= base_url('assets/images/logo_bundar.png');  ?>"></div>
   <div class="one-half ftco-animate">
     <div class="overlap">
       <div class="heading-section ftco-animate ">
         <h2 class="mb-4">Nine Coffee</h2>
       </div>
       <div>
-        <h5>Nine Coffee merupakan perusahaan swasta yang berada di Kabupaten Bondowoso yang bergerak dalam bidang pertanian serta pengolahan tanaman kopi khususnya yang berada di Kabupaten Bondowoso. Selain bekerjasama dengan beberapa pengurus kopi rakyat, Nine Coffee juga memiliki lahan seluas 6 hektar yang berada di kawasan gunung Ijen. Beberapa Produk unggulan Nine Coffe Roastery tidak hanya arabika, namun kopi robusta dan luwak juga tidak kalah pamor.</h5>
+        <h6>Nine Coffee merupakan perusahaan swasta yang berada di Kabupaten Bondowoso yang bergerak dalam bidang pertanian serta pengolahan tanaman kopi khususnya yang berada di Kabupaten Bondowoso. Selain bekerjasama dengan beberapa pengurus kopi rakyat, Nine Coffee juga memiliki lahan seluas 6 hektar yang berada di kawasan gunung Ijen. Beberapa Produk unggulan Nine Coffe Roastery tidak hanya arabika, namun kopi robusta dan luwak juga tidak kalah pamor.</h6>
       </div>
     </div>
   </div>
