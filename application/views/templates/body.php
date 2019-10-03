@@ -1,24 +1,24 @@
 <!-- Swiper Silder
-    ================================================== --> 
+    ================================================== -->
 <!-- Slider main container -->
-<div class="swiper-container main-slider" id="myCarousel">
-  <div class="swiper-wrapper">
-    <div class="swiper-slide slider-bg-position" style="background:url('assets/images/arabica1.jpg')" data-hash="slide1">
-      <h4>Bondowoso di kenal sebagai salah satu sentra penghasil kopi terbaik di Indonesia. NINE-COFFE sendiri salah satu bisnis yang bergerak dibidang kopi.</h4>
-    </div>
+<div class="swiper-container main-slider">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide slider-bg-position" style="background-image:url('assets/images/arabica1.jpg')" data-hash="slide1" responsive="true">
+            <h4>Bondowoso di kenal sebagai salah satu sentra penghasil kopi terbaik di Indonesia. NINE-COFFE sendiri salah satu bisnis yang bergerak dibidang kopi.</h4>
+        </div>
 
-    <div class="swiper-slide slider-bg-position" style="background:url('assets/images/bijikopi21.jpeg')" data-hash="slide2">
-      <h4>Setelah biji kopi dipanen, kemudian diproses di pabrik untuk disortir kembali untuk dipilih biji kopi terbaik.</h4>
-    </div>
+        <div class="swiper-slide slider-bg-position" style="background-image:url('assets/images/bijikopi21.jpeg')" data-hash="slide2">
+            <h4>Setelah biji kopi dipanen, kemudian diproses di pabrik untuk disortir kembali untuk dipilih biji kopi terbaik.</h4>
+        </div>
 
-    <div class="swiper-slide slider-bg-position" style="background:url('assets/images/proses2.jpg')" data-hash="slide1">
-      <h4>Di proses ini biji kopi yang siap diproduksi akan dibawa ke pabrik bersih lalu disangrai kemudia dikemas.</h4>
+        <div class="swiper-slide slider-bg-position" style="background-image:url('assets/images/proses2.jpg')" data-hash="slide1">
+            <h4>Di proses ini biji kopi yang siap diproduksi akan dibawa ke pabrik bersih lalu disangrai kemudia dikemas.</h4>
+        </div>
     </div>
-  </div>
 </div>
 
-<section class="ftco-about d-md-flex">
-    <div class="one-half img "> <img widht="885" height="400" src="<?= base_url('assets/images/logo_bundar.png');  ?>"></div>
+<section class="ftco-about d-md-flex" style="background-image: url(assets/images/bg_4.jpg);">
+    <div class="one-half img "> <img widht="400" height="325" src="<?= base_url('assets/images/logo_nav.png');  ?>"></div>
     <div class="one-half ftco-animate">
         <div class="overlap ">
             <div class="heading-section ftco-animate ">
@@ -37,6 +37,23 @@
 </section>
 
 <hr>
+
+<section class="ftco-section img" id="ftco-testimony" style="background-image: url(assets/images/bg_1.jpg);" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row justify-content-center mb-5">
+            <div class="col-md-7 heading-section text-center ftco-animate">
+
+                <h2 class="mb-4">JAMBI INTERNATIONAL COFFE DAY</h2>
+                <video width="450px" height="250px" controls>
+                    <source src="assets/video/jambi.mp4" type="video/mp4">
+
+                </video>
+
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="ftco-section">
     <div class="container">

@@ -1,6 +1,3 @@
-
-
-
 <!-- Bootstrap core CSS -->
 <link href="<?= base_url('assets4/'); ?>css/bootstrap.min.css" rel="stylesheet">
 <!-- Custom styles for this template -->
