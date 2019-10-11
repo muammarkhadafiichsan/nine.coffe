@@ -1,19 +1,44 @@
 <!-- Swiper Silder
-    ================================================== --> 
+    ================================================== -->
 <!-- Slider main container -->
+<div class="bd-example">
+	<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+			<li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+			<li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+		</ol>
+		<div class="carousel-inner">
+			<div class="carousel-item active">
 
-<div class="swiper-container main-slider" id="myCarousel">
-  <div class="swiper-wrapper">
-    <div class="swiper-slide slider-bg-position" style="background:url('assets/images/kafe8.jpg')" data-hash="slide1">
-      <h2>Tempat ngopi yang nyaman untuk kota yang tenang</h2>
-    </div>
-    <div class="swiper-slide slider-bg-position" style="background:url('assets/images/kafe9.jpg')" data-hash="slide2">
-      <h3>Tidak sering nine coffe dibuat untuk acara - acara keluarga, karena memang tempatnya yang nyaman dan menu - menu yang non coffee yang mantab</h3>
-    </div>
-    <div class="swiper-slide slider-bg-position" style="background:url('assets/images/nine.jpg')" data-hash="slide1">
-      <h3>Tempat yang sangat strategis dikarenakan berada dipusat kota Bondowoso, sehingga tempat ini selalu rame.</h3>
-    </div>
-  </div>
+				<img src="<?= base_url('assets/images/nine.jpg'); ?>" class="d-block w-100" alt="...">
+
+				<div class="carousel-caption d-none d-md-block">
+
+				</div>
+			</div>
+			<div class="carousel-item">
+				<img src="<?= base_url('assets/images/kafe10.jpg'); ?>" class="d-block w-100" alt="...">
+				<div class="carousel-caption d-none d-md-block">
+
+				</div>
+			</div>
+			<div class="carousel-item">
+				<img src="<?= base_url('assets/images/kafe8.jpg'); ?>" class="d-block w-100" alt="...">
+				<div class="carousel-caption d-none d-md-block">
+
+				</div>
+			</div>
+		</div>
+		<a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+	</div>
 </div>
 
 
