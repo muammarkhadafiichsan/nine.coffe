@@ -11,7 +11,8 @@ class Menu_barista extends CI_Controller
         $this->load->view('templates/header4');
         $this->load->view('templates/navbar');
         $this->load->view('menu/barista');
-        $this->load->view('templates/footer');
         $this->load->view('templates/footer4');
+        $this->load->view('templates/footer');
+        
     }
 }

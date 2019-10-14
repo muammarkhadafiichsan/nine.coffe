@@ -24,6 +24,7 @@
                     </li>
                     <li class="nav-item "><a href="<?= base_url('Menu_berita');
                                                     '/index' ?>" class="nav-link">NEWS</a></li>
+                     <li class="nav-item "><a href="#" class="nav-link">EVENT</a></li>
                     <li class="nav-item "><a href="<?= base_url('Menu_barista/index');
                                                     ?>" class="nav-link">BARISTA</a></li>
                     <li class="nav-item "><a href="<?= base_url('Menu_patner');

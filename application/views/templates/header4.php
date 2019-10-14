@@ -1,6 +1,6 @@
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="<?= base_url('assets5/'); ?>images/favicon.ico" type="image/x-icon" />
+    
     <link rel="apple-touch-icon" href="<?= base_url('assets5/'); ?>images/apple-touch-icon.png">
 
     <!-- Bootstrap CSS -->
