@@ -40,24 +40,41 @@
 
 
 
-<section class="ftco-about d-md-flex" style="background-image: url(assets/images/bg_4.jpg);">
-  <div class="one-half img "> <img widht="400" height="325" src="<?= base_url('assets/images/logo_nav.png');  ?>"></div>
-  <div class="one-half ftco-animate">
-    <div class="overlap ">
-      <div class="heading-section ftco-animate ">
-        <div class="heading-section ftco-animate ">
-          <h2 class="mb-4 " href=" <?= base_url('tampilan');
-                                    '/profil' ?>">Nine Coffee</h2>
+  <!-- About me -->
+  <section class="fh5co-about-me">
+    <div class="about-me-inner site-container">
+      <article class="portfolio-wrapper">
+        <div class="portfolio__img">
+          <img src="assets6/images/logo_nine.png" class="about-me__profile" alt="about me profile picture">
         </div>
-        <div>
-          <h6> Nine Coffee merupakan perusahaan swasta yang berada di Kabupaten Bondowoso yang bergerak dalam bidang pertanian serta pengolahan tanaman kopi khususnya yang berada di Kabupaten Bondowoso. Selain bekerjasama dengan beberapa pengurus kopi rakyat, Nine Coffee juga memiliki lahan seluas 6 hektar yang berada di kawasan gunung Ijen. Beberapa Produk unggulan Nine Coffe Roastery tidak hanya arabika, namun kopi robusta dan luwak juga tidak kalah pamor.</h5>
-            <p><a href="<?= base_url('profil');
-                        '/index' ?>" class="btn btn-white btn-outline-white p-2 px-xl-2 py-xl-2 ">Baca Selengkapnya</a></p>
+        <div class="portfolio__bottom">
+          <div class="portfolio__name">
+            <span>N</span>
+            <h2 class="universal-h2">ine Coffee</h2>
+          </div>
+          <p>Jhone Smith is a short story author, novelist, and award-winning poet.</p>
         </div>
-
+      </article>
+      <div class="about-me__text">
+        <div class="about-me-slider">
+          <div class="about-me-single-slide">
+            <h2 class="universal-h2 universal-h2-bckg">Tentang Nine Coffee</h2>
+            <p><span>H</span> e has work appearing or forthcoming in over a dozen venues, including Buzzy Mag, The Spirit of Poe, and the British Fantasy Society journal Dark Horizons. He is also CEO of a company, specializing in custom book publishing and social media marketing services, have created a community for authors to learn and connect.He has work appearing or forthcoming in over a dozen venues, including Buzzy Mag, The Spirit of Poe, and have created a community for authors to learn and connect.</p>
+            <h4>Author</h4>
+            <p class="p-white">See me</p>
+          </div>
+          <div class="about-me-single-slide">
+            <h2 class="universal-h2 universal-h2-bckg">About me 2</h2>
+            <p><span>H</span> e has work appearing or forthcoming in over a dozen venues, including Buzzy Mag, The Spirit of Poe, and the British Fantasy Society journal Dark Horizons. He is also CEO of a company, specializing in custom book publishing and social media marketing services, have created a community for authors to learn and connect.He has work appearing or forthcoming in over a dozen venues, including Buzzy Mag, The Spirit of Poe, and have created a community for authors to learn and connect.</p>
+            <h4>Author</h4>
+            <p class="p-white">See me</p>
+          </div>
+        </div>
       </div>
     </div>
-</section>
+    <div class="about-me-bckg"></div>
+  </section>
+  <!-- About me end -->
 
 <hr>
 
@@ -78,43 +95,43 @@
   </div>
 </section>
 
-<section class="ftco-section">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-md-6 pr-md-5">
-        <div class="heading-section text-md-right ftco-animate">
-
-          <h2 class="mb-4 icon-award">AWARDS</h2>
-          <p class="mb-4">Prestasi Nine-Coffe dari berbagai lomba atau festival dalam bidang kopi di Kabupaten Bondowoso yang menjadikan Nine-Coffe sebagai salah satu perusahaan kopi terbaik di Kabupaten Bondowoso. </p>
-          <p><a href="<?= base_url('View_achievement');
-                      '/index' ?>" class="btn btn-primary btn-outline-primary px-4 py-3">Lihat Selengkapnya</a></p>
+  <!-- Blog -->
+  <section class="fh5co-blog">
+    <div class="site-container">
+      <h2 class="text-center">AWARDS</h2>
+      <div class="blog-slider blog-inner">
+        <div class="single-blog">
+          <div class="single-blog__img">
+            <img src="assets6/images/juara_satu.jpg" alt="blog image">
+          </div>
+          <div class="single-blog__text">
+            <h4>FKN 3 BONDOWOSO</h4>
+            <span>On August 28, 2015</span>
+            <p>Nine Coffee mendapat juara satu dalam FESTIVAL KOPI NUSANTARA 3 BONDOWOSO</p>
+          </div>
         </div>
-      </div>
-      <div class="col-md-6">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="menu-entry">
-              <a href="#" class="img" style="background-image: url(assets/images/juara_satu.jpg);"></a>
-            </div>
+        <div class="single-blog">
+          <div class="single-blog__img">
+            <img src="assets6/images/juara_tiga.jpg" alt="blog image">
           </div>
-          <div class="col-md-6">
-            <div class="menu-entry mt-lg-4">
-              <a href="#" class="img" style="background-image: url(assets/images/juara_tiga.jpg);"></a>
-            </div>
+          <div class="single-blog__text">
+            <h4>FKN 3 BONDOWOSO</h4>
+            <span>On August 28, 2015</span>
+            <p>Nine Coffee mendapat juara tiga dalam FESTIVAL KOPI NUSANTARA 3 BONDOWOSO</p>
           </div>
-          <div class="col-md-6">
-            <div class="menu-entry">
-              <a href="#" class="img" style="background-image: url(assets/images/juara_satu.jpg);"></a>
-            </div>
+        </div>
+        <div class="single-blog">
+          <div class="single-blog__img">
+            <img src="assets6/images/juara_satu.jpg" alt="blog image">
           </div>
-          <div class="col-md-6">
-            <div class="menu-entry mt-lg-4">
-              <a href="#" class="img" style="background-image: url(assets/images/juara_tiga.jpg);"></a>
-            </div>
+          <div class="single-blog__text">
+            <h4>FKN 3 BONDOWOSO</h4>
+            <span>On August 28, 2015</span>
+            <p>Nine Coffee mendapat juara satu dalam FESTIVAL KOPI NUSANTARA 3 BONDOWOSO</p>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
+  <!-- Blog end -->
 </body>
