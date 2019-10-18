@@ -24,7 +24,9 @@
                     </li>
                     <li class="nav-item "><a href="<?= base_url('Menu_berita');
                                                     '/index' ?>" class="nav-link">BERITA</a></li>
-                     <li class="nav-item "><a href="#" class="nav-link">EVENT</a></li>
+                    <li class="nav-item "><a href="#" class="nav-link">ARTIKEL</a></li>
+                    <li class="nav-item "><a href="#" class="nav-link">EVENT</a></li>
+                    <li class="nav-item "><a href="#" class="nav-link">TIPS & TRIK</a></li>
                     <li class="nav-item "><a href="<?= base_url('Menu_patner');
                                                     '/index' ?>" class="nav-link">PATNER</a></li>
 

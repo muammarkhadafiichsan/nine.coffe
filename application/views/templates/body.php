@@ -15,7 +15,7 @@
         </div>
       </div>
       <div class="carousel-item">
-        <img src="<?= base_url('assets/images/arabica1.jpg'); ?>" class="d-block w-100" alt="...">
+        <img src="<?= base_url('assets/images/arabica_1.jpg'); ?>" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
 
         </div>

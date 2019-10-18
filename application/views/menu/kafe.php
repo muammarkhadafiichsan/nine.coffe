@@ -11,7 +11,7 @@
 		<div class="carousel-inner">
 			<div class="carousel-item active">
 
-				<img src="<?= base_url('assets/images/nine.jpg'); ?>" class="d-block w-100" alt="...">
+				<img src="<?= base_url('assets/images/nine_1.jpg'); ?>" class="d-block w-100" alt="...">
 
 				<div class="carousel-caption d-none d-md-block">
 
@@ -41,8 +41,6 @@
 	</div>
 </div>
 
-
-
 <section class="ftco-about d-md-flex">
 	<div class="one-half img" style="background-image: url(assets/images/kafe10.jpg);"></div>
 	<div class="one-half ftco-animate">
@@ -56,7 +54,6 @@
 </section>
 
 <br>
-
 
 <section class="ftco-intro">
 	<div class="container-wrap">
@@ -93,100 +90,61 @@
 	</div>
 </section>
 
-<div id="barbers" class="section lb">
-                <div class="container-fluid">
-                    <div class="section-title row text-center">
-                        <div class="col-md-8 col-md-offset-2">
-                        <small>MEET OUR BABRER TEAM</small>
-                        <h3>OUR BARBERS</h3>
-                        <hr class="grd1">
-                        <p class="lead">Barber Nine Coffee sangat handal dalam penyajian menu, kunjungi kafe kami dan bisa bertemu langsung dengan barber kami.</p>
-                        </div>
-                    </div><!-- end title -->
-
-                    <div class="row dev-list text-center">
-                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                            <div class="widget clearfix">
-								<div class="hover-br">
-									<img src="<?= base_url('assets5/uploads/barber_team_01.jpg');  ?>" alt="" class="img-responsive">
-									
-								</div>
-                                <div class="widget-title">
-                                    <h3>Soren Bo Bostian</h3>
-                                    <small>The Barber</small>
-                                </div>
-                                <!-- end title -->
-                                <p>Hello guys, I am Soren from Sirbistana. I am senior art director and founder of The Barber Shop Company.</p>
-                                <div class="hover">
-                                        <div class="social">
+    <section class="ftco-section">
+    	<div class="container">
+    		<div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-7 heading-section ftco-animate text-center">
+          	<span class="subheading">Barista</span>
+            <h2 class="mb-4">Nine Coffee</h2>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+        	<div class="col-md-3">
+        		<div class="menu-entry">
+    					<a href="#" class="img" style="background-image: url(assets/images/barber_team_01.jpg);"></a>
+    					<div class="text text-center pt-4">
+    						<h3><a href="#">The Barber</a></h3>
+    						<p>A small river named Duden flows by their place and supplies</p>
+    						 <div class="social">
                                             <a href="#" class="btn"><i class="fa fa-facebook"></i></a>
                                             <a href="#" class="btn"><i class="fa fa-instagram"></i></a>
                                             <a href="#" class="btn"><i class="fa fa-twitter"></i></a>
                                             <a href="#" class="btn"><i class="fa fa-envelope"></i></a>
-                                        </div>
-                                    </div>
-                            </div><!--widget -->
-                        </div><!-- end col -->
-
-                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
-                            <div class="widget clearfix">
-								<div class="hover-br">
-									<img src="<?= base_url('assets5/uploads/barber_team_02.jpg');  ?>" alt="" class="img-responsive">
-									<div class="social-up-hover">
-										<div class="footer-social">
-											<a href="#" class="btn grd1"><i class="fa fa-facebook"></i></a>
-											<a href="#" class="btn grd1"><i class="fa fa-github"></i></a>
-											<a href="#" class="btn grd1"><i class="fa fa-twitter"></i></a>
-											<a href="#" class="btn grd1"><i class="fa fa-linkedin"></i></a>
-										</div>
-									</div>
-								</div>
-                                <div class="widget-title">
-                                    <h3>Bryan Saftler</h3>
-                                    <small>The Barber</small>
-                                </div>
-                                <!-- end title -->
-                                <p>Hello guys, I am Soren from Sirbistana. I am senior art director and barber of the Barber Shop Market.</p>
-                                <div class="hover">
-                                        <div class="social">
+                             </div>
+    					</div>
+    				</div>
+        	</div>
+        	<div class="col-md-3">
+        		<div class="menu-entry">
+    					<a href="#" class="img" style="background-image: url(assets/images/barber_team_02.jpg);"></a>
+    					<div class="text text-center pt-4">
+    						<h3><a href="#">The Barber</a></h3>
+    						<p>A small river named Duden flows by their place and supplies</p>
+    						<div class="social">
                                             <a href="#" class="btn"><i class="fa fa-facebook"></i></a>
                                             <a href="#" class="btn"><i class="fa fa-instagram"></i></a>
                                             <a href="#" class="btn"><i class="fa fa-twitter"></i></a>
                                             <a href="#" class="btn"><i class="fa fa-envelope"></i></a>
-                                        </div>
-                                    </div>
-                            </div><!--widget -->
-                        </div><!-- end col -->
-
-                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
-                            <div class="widget clearfix">
-								<div class="hover-br">
-									<img src="<?= base_url('assets5/uploads/barber_team_03.jpg');  ?>" alt="" class="img-responsive">
-									<div class="social-up-hover">
-										<div class="footer-social">
-											<a href="#" class="btn grd1"><i class="fa fa-facebook"></i></a>
-											<a href="#" class="btn grd1"><i class="fa fa-github"></i></a>
-											<a href="#" class="btn grd1"><i class="fa fa-twitter"></i></a>
-											<a href="#" class="btn grd1"><i class="fa fa-linkedin"></i></a>
-										</div>
-									</div>
-								</div>
-                                <div class="widget-title">
-                                    <h3>Matthew Bayliss</h3>
-                                    <small>The Barber</small>
-                                </div>
-                                <!-- end title -->
-                                <p>Hello guys, I am Soren from Sirbistana. I am senior art director and barber of the Barber Shop Website.</p>
-                                <div class="hover">
-                                        <div class="social">
+                            </div>
+    					</div>
+    				</div>
+        	</div>
+        	<div class="col-md-3">
+        		<div class="menu-entry">
+    					<a href="#" class="img" style="background-image: url(assets/images/barber_team_03.jpg);"></a>
+    					<div class="text text-center pt-4">
+    						<h3><a href="#">The Barber</a></h3>
+    						<p>A small river named Duden flows by their place and supplies</p>
+    						<div class="social">
                                             <a href="#" class="btn"><i class="fa fa-facebook"></i></a>
                                             <a href="#" class="btn"><i class="fa fa-instagram"></i></a>
                                             <a href="#" class="btn"><i class="fa fa-twitter"></i></a>
                                             <a href="#" class="btn"><i class="fa fa-envelope"></i></a>
-                                        </div>
-                                    </div>
-                            </div><!--widget -->
-                        </div><!-- end col -->
-                    </div><!-- end row -->
-                </div><!-- end container -->
-            </div><!-- end section -->
+                            </div>
+    					</div>
+    				</div>
+        	</div>
+        </div>
+    	</div>
+    </section>
