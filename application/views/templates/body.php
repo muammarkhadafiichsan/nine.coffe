@@ -78,23 +78,6 @@
 
 <hr>
 
-<section class="ftco-section img" id="ftco-testimony" style="background-image: url(assets/images/bg_1.jpg);" data-stellar-background-ratio="0.5">
-  <div class="overlay"></div>
-  <div class="container">
-    <div class="row justify-content-center mb-5">
-      <div class="col-md-7 heading-section text-center ftco-animate">
-
-        <h2 class="mb-4">JAMBI INTERNATIONAL COFFE DAY</h2>
-        <video width="450px" height="250px" controls>
-          <source src="assets/video/jambi.mp4" type="video/mp4">
-
-        </video>
-
-      </div>
-    </div>
-  </div>
-</section>
-
   <!-- Blog -->
   <section class="fh5co-blog">
     <div class="site-container">

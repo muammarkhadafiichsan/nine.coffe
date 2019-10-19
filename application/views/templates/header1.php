@@ -1,6 +1,6 @@
 
 	<!-- Bootstrap -->
-    <link rel="stylesheet" href="<?= base_url('assets1/'); ?>css/bootstrap.css">
+  
     <!-- end Google Font -->
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,500,600,700,800,300' rel='stylesheet' type='text/css'>
