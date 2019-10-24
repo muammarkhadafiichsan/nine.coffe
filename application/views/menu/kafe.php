@@ -42,13 +42,13 @@
 </div>
 
 <section class="ftco-about d-md-flex">
-	<div class="one-half img" style="background-image: url(assets/images/kafe10.jpg);"></div>
+	<div class="one-half img" style="background-image: url();"></div>
 	<div class="one-half ftco-animate">
 		<div class="heading-section ftco-animate ">
 			<h3 class="mb-4">Selamat Datang di Nine <span class="flaticon-pizza">Coffee</span> Roastery Bondowoso</h3>
 		</div>
 		<div>
-			<p>Nine Coffee merupakan salah satu kafe di Bondowoso yang menyajikan menu minuman dari kopi yang beragam yaitu kopi Robusta dan Arabika. Nine Coffee kafe mengutamakan kopi sebagai sajian utama dalam menu. Pastikan berkunjung dan pesan kopi favoritmu di meja bar kami. </p>
+			<p></p>
 		</div>
 	</div>
 </section>
@@ -96,16 +96,16 @@
           <div class="col-md-7 heading-section ftco-animate text-center">
           	<span class="subheading">Barista</span>
             <h2 class="mb-4">Nine Coffee</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <p></p>
           </div>
         </div>
         <div class="row justify-content-center">
         	<div class="col-md-3">
         		<div class="menu-entry">
-    					<a href="#" class="img" style="background-image: url(assets/images/barber_team_01.jpg);"></a>
+    					<a href="#" class="img" style="background-image: url();"></a>
     					<div class="text text-center pt-4">
-    						<h3><a href="#">The Barber</a></h3>
-    						<p>A small river named Duden flows by their place and supplies</p>
+    						<h3><a href="#"></a></h3>
+    						<p></p>
     						 <div class="social">
                                             <a href="#" class="btn"><i class="fa fa-facebook"></i></a>
                                             <a href="#" class="btn"><i class="fa fa-instagram"></i></a>
@@ -115,36 +115,7 @@
     					</div>
     				</div>
         	</div>
-        	<div class="col-md-3">
-        		<div class="menu-entry">
-    					<a href="#" class="img" style="background-image: url(assets/images/barber_team_02.jpg);"></a>
-    					<div class="text text-center pt-4">
-    						<h3><a href="#">The Barber</a></h3>
-    						<p>A small river named Duden flows by their place and supplies</p>
-    						<div class="social">
-                                            <a href="#" class="btn"><i class="fa fa-facebook"></i></a>
-                                            <a href="#" class="btn"><i class="fa fa-instagram"></i></a>
-                                            <a href="#" class="btn"><i class="fa fa-twitter"></i></a>
-                                            <a href="#" class="btn"><i class="fa fa-envelope"></i></a>
-                            </div>
-    					</div>
-    				</div>
-        	</div>
-        	<div class="col-md-3">
-        		<div class="menu-entry">
-    					<a href="#" class="img" style="background-image: url(assets/images/barber_team_03.jpg);"></a>
-    					<div class="text text-center pt-4">
-    						<h3><a href="#">The Barber</a></h3>
-    						<p>A small river named Duden flows by their place and supplies</p>
-    						<div class="social">
-                                            <a href="#" class="btn"><i class="fa fa-facebook"></i></a>
-                                            <a href="#" class="btn"><i class="fa fa-instagram"></i></a>
-                                            <a href="#" class="btn"><i class="fa fa-twitter"></i></a>
-                                            <a href="#" class="btn"><i class="fa fa-envelope"></i></a>
-                            </div>
-    					</div>
-    				</div>
-        	</div>
+
         </div>
     	</div>
     </section>

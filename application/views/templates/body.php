@@ -52,23 +52,18 @@
             <span>N</span>
             <h2 class="universal-h2">ine Coffee</h2>
           </div>
-          <p>Jhone Smith is a short story author, novelist, and award-winning poet.</p>
+          <p></p>
         </div>
       </article>
       <div class="about-me__text">
         <div class="about-me-slider">
           <div class="about-me-single-slide">
             <h2 class="universal-h2 universal-h2-bckg">Tentang Nine Coffee</h2>
-            <p><span>H</span> e has work appearing or forthcoming in over a dozen venues, including Buzzy Mag, The Spirit of Poe, and the British Fantasy Society journal Dark Horizons. He is also CEO of a company, specializing in custom book publishing and social media marketing services, have created a community for authors to learn and connect.He has work appearing or forthcoming in over a dozen venues, including Buzzy Mag, The Spirit of Poe, and have created a community for authors to learn and connect.</p>
+            <p><span>H</span> </p>
             <h4>Author</h4>
             <p class="p-white">See me</p>
           </div>
-          <div class="about-me-single-slide">
-            <h2 class="universal-h2 universal-h2-bckg">About me 2</h2>
-            <p><span>H</span> e has work appearing or forthcoming in over a dozen venues, including Buzzy Mag, The Spirit of Poe, and the British Fantasy Society journal Dark Horizons. He is also CEO of a company, specializing in custom book publishing and social media marketing services, have created a community for authors to learn and connect.He has work appearing or forthcoming in over a dozen venues, including Buzzy Mag, The Spirit of Poe, and have created a community for authors to learn and connect.</p>
-            <h4>Author</h4>
-            <p class="p-white">See me</p>
-          </div>
+
         </div>
       </div>
     </div>
@@ -88,31 +83,13 @@
             <img src="assets6/images/juara_satu.jpg" alt="blog image">
           </div>
           <div class="single-blog__text">
-            <h4>FKN 3 BONDOWOSO</h4>
-            <span>On August 28, 2015</span>
-            <p>Nine Coffee mendapat juara satu dalam FESTIVAL KOPI NUSANTARA 3 BONDOWOSO</p>
+            <h4></h4>
+            <span></span>
+            <p></p>
           </div>
         </div>
-        <div class="single-blog">
-          <div class="single-blog__img">
-            <img src="assets6/images/juara_tiga.jpg" alt="blog image">
-          </div>
-          <div class="single-blog__text">
-            <h4>FKN 3 BONDOWOSO</h4>
-            <span>On August 28, 2015</span>
-            <p>Nine Coffee mendapat juara tiga dalam FESTIVAL KOPI NUSANTARA 3 BONDOWOSO</p>
-          </div>
-        </div>
-        <div class="single-blog">
-          <div class="single-blog__img">
-            <img src="assets6/images/juara_satu.jpg" alt="blog image">
-          </div>
-          <div class="single-blog__text">
-            <h4>FKN 3 BONDOWOSO</h4>
-            <span>On August 28, 2015</span>
-            <p>Nine Coffee mendapat juara satu dalam FESTIVAL KOPI NUSANTARA 3 BONDOWOSO</p>
-          </div>
-        </div>
+        
+      
       </div>
     </div>
   </section>

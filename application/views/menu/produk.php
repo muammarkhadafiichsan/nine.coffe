@@ -40,44 +40,12 @@
                 <div class="hovereffect">
                   <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
                   <div class="buttons">
-                    <h4>ARABICA IJEN SPECIALTY 'Beans'</h4>
-                    <h5>Kopi arabika terbaik dari kawah ijen bondowoso jawa timur, diolah dengan proses fullwash ( olah basah ), dengan mutu dan kualitas export. Menjanjikan cita rasa yang stabil dan nikmat, dengan sensasi kopi jawa yang melekat tajam. Tersedia dalam bentuk biji sangrai, biji mentah , ataupun bubuk</h5>
+                    <h4></h4>
+                    <h5></h5>
                   </div><!-- end buttons -->
                 </div><!-- end hovereffect -->
               </div>
 
-              <div class="item entry item-h2 webdesign print">
-                <img src="assets/images/produk3.jpg" alt="" class="img-responsive">
-                <div class="hovereffect">
-                  <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
-                  <div class="buttons">
-                    <h4>ARABICA IJEN BONDOWOSO</h4>
-                    <h5>Kopi bubuk siap seduh yang rasanya sangat kuat sehingga memiliki cita rasa yang khas</h5>
-                  </div><!-- end buttons -->
-                </div><!-- end hovereffect -->
-              </div>
-
-              <div class="item entry item-h2 videos print">
-                <img src="assets/images/produk4.jpg" alt="" class="img-responsive">
-                <div class="hovereffect">
-                  <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
-                  <div class="buttons">
-                    <h4>ARABICA IJEN SPECIALTY</h4>
-                    <h5>Kopi arabika terbaik dari kawah ijen bondowoso jawa timur, diolah dengan proses fullwash ( olah basah ), dengan mutu dan kualitas export. Menjanjikan cita rasa yang stabil dan nikmat, dengan sensasi kopi jawa yang melekat tajam. Tersedia dalam bentuk biji sangrai, biji mentah , ataupun bubuk</h5>
-                  </div><!-- end buttons -->
-                </div><!-- end hovereffect -->
-              </div>
-
-              <div class="item entry item-h2 photography">
-                <img src="assets/images/produk5.jpg" alt="" class="img-responsive">
-                <div class="hovereffect">
-                  <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
-                  <div class="buttons">
-                    <h4>ROBUSTA IJEN BONDOWOSO</h4>
-                    <h5>Kualitas terbaik dari biji kopi pilihan, dengan fisik bulat sempurna yang memiliki karakter kopi yg kuat di bandingkan kopi lain pada umumnya.</h5>
-                  </div><!-- end buttons -->
-                </div><!-- end hovereffect -->
-              </div>
 
 
 
