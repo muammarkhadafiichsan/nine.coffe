@@ -38,60 +38,132 @@
   </div>
 </div>
 
+<br>
 
-
-  <!-- About me -->
-  <section class="fh5co-about-me">
-    <div class="about-me-inner site-container">
-      <article class="portfolio-wrapper">
-        <div class="portfolio__img">
-          <img src="assets6/images/logo_nine.png" class="about-me__profile" alt="about me profile picture">
-        </div>
-        <div class="portfolio__bottom">
-          <div class="portfolio__name">
-            <span>N</span>
-            <h2 class="universal-h2">ine Coffee</h2>
+<div class="row justify-content-center">
+          <div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+            <h2>Tentang Nine Coffee</h2>
+            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
           </div>
-          <p></p>
         </div>
-      </article>
-      <div class="about-me__text">
-        <div class="about-me-slider">
-          <div class="about-me-single-slide">
-            <h2 class="universal-h2 universal-h2-bckg">Tentang Nine Coffee</h2>
-            <p><span>H</span> </p>
-            <h4>Author</h4>
-            <p class="p-white">See me</p>
-          </div>
+<br>
 
+    <div id="colorlib-intro">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-md-12 tabulation animate-box">
+            <ul class="nav nav-tabs justify-content-center">
+              <li class="active"><a data-toggle="tab" href="#plan"><i class=""></i> Planning &amp; Design</a></li>
+              <li><a data-toggle="tab" href="#general"><i class=""></i> General Constructing</a></li>
+              <li><a data-toggle="tab" href="#manage"><i class=""></i> Construction Management</a></li>
+            </ul>
+            <div class="tab-content">
+              <div id="plan" class="tab-pane fade in active">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="services-img" style="background-image: url(assets6/images/logo_bundar.png);"></div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="services-desc">
+                      <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <ul>
+                        <li>It is a paradisematic country in which</li>
+                        <li>Even the all-powerful Pointing has no control</li>
+                        <li>When she reached the first hills of the Italic Mountains</li>
+                        <li>Alphabet Village and the subline of her own road</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                 </div>
+                 <div id="general" class="tab-pane fade">
+                  <div class="row">
+                  <div class="col-md-6">
+                    <div class="services-img" style="background-image: url(assets6/images/nine.jpg);"></div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="services-desc">
+                      <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <ul>
+                        <li>It is a paradisematic country in which</li>
+                        <li>Even the all-powerful Pointing has no control</li>
+                        <li>When she reached the first hills of the Italic Mountains</li>
+                        <li>Alphabet Village and the subline of her own road</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                  
+               </div>
+               <div id="manage" class="tab-pane fade">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="services-img" style="background-image: url(assets6/images/building-3.jpg);"></div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="services-desc">
+                      <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                      <ul>
+                        <li>It is a paradisematic country in which</li>
+                        <li>Even the all-powerful Pointing has no control</li>
+                        <li>When she reached the first hills of the Italic Mountains</li>
+                        <li>Alphabet Village and the subline of her own road</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                
+               </div>
+               
+               </div>
+             </div>
         </div>
       </div>
     </div>
-    <div class="about-me-bckg"></div>
-  </section>
-  <!-- About me end -->
+
+<br>
+        <div class="row justify-content-center">
+          <div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+            <h2>Our Awards</h2>
+            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-3 animate-box">
+            <a href="#" class="staff-img staff-img2" style="background-image: url(assets6/images/juara_satu.jpg);">
+              <div class="desc-staff">
+                <h3>JUARA 1 V60 BREWING COMPETITION</h3>
+                <span>BONDOWOSO</span>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 animate-box">
+            <a href="#" class="staff-img staff-img2" style="background-image: url(assets6/images/person2.jpg);">
+              <div class="desc-staff">
+                <h3>Jack Clark</h3>
+                <span>Engineer</span>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 animate-box">
+            <a href="#" class="staff-img staff-img2" style="background-image: url(assets6/images/person3.jpg);">
+              <div class="desc-staff">
+                <h3>Kiven Lewis</h3>
+                <span>Architect</span>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 animate-box">
+            <a href="#" class="staff-img staff-img2" style="background-image: url(assets6/images/person4.jpg);">
+              <div class="desc-staff">
+                <h3>Charles Scott</h3>
+                <span>Assistant Engineer</span>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
 
 <hr>
-
-  <!-- Blog -->
-  <section class="fh5co-blog">
-    <div class="site-container">
-      <h2 class="text-center">AWARDS</h2>
-      <div class="blog-slider blog-inner">
-        <div class="single-blog">
-          <div class="single-blog__img">
-            <img src="assets6/images/juara_satu.jpg" alt="blog image">
-          </div>
-          <div class="single-blog__text">
-            <h4></h4>
-            <span></span>
-            <p></p>
-          </div>
-        </div>
-        
-      
-      </div>
-    </div>
-  </section>
-  <!-- Blog end -->
-</body>

@@ -1,32 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-
-  <link href="https://fonts.googleapis.com/css?family=B612+Mono|Cabin:400,700&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>fonts/icomoon/style.css">
-
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>css/bootstrap.min.css">
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>css/jquery-ui.css">
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>css/owl.carousel.min.css">
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>css/owl.theme.default.min.css">
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>css/owl.theme.default.min.css">
-
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>css/jquery.fancybox.min.css">
-
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>css/bootstrap-datepicker.css">
-
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>fonts/flaticon/font/flaticon.css">
-
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>css/aos.css">
-  <link href="<?= base_url('assets9/'); ?>css/jquery.mb.YTPlayer.min.css" media="all" rel="stylesheet" type="text/css">
-
-  <link rel="stylesheet" href="<?= base_url('assets9/'); ?>css/style.css">
+    <html lang="zxx" class="no-js">
+    <head>
+        <!-- Mobile Specific Meta -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- Favicon-->
+        <link rel="shortcut icon" href="img/fav.png">
+        <!-- Author Meta -->
+        <meta name="author" content="colorlib">
+        <!-- Meta Description -->
+        <meta name="description" content="">
+        <!-- Meta Keyword -->
+        <meta name="keywords" content="">
+        <!-- meta character set -->
+        <meta charset="UTF-8">
+        <!-- Site Title -->
 
 
-
-</head>
+        <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+            <!--
+            CSS
+            ============================================= -->
+            <link rel="stylesheet" href="<?= base_url('assets10/'); ?>css/linearicons.css">
+            <link rel="stylesheet" href="<?= base_url('assets10/'); ?>css/font-awesome.min.css">
+            <link rel="stylesheet" href="<?= base_url('assets10/'); ?>css/bootstrap.css">
+            <link rel="stylesheet" href="<?= base_url('assets10/'); ?>css/main.css">
+        </head>
