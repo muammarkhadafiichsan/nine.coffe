@@ -17,12 +17,12 @@
                                 </div>
                                 <div class="form-group">
                                     <input type="text" class="form-control form-control-lg" id="exampleInputEmail1" placeholder="username" name="username">
-                                    <?= form_error('username', '<div class="text-danger samall">', '</div>'); ?>
+                                    <?= form_error('username', '<div class="text-danger small">', '</div>'); ?>
                                 </div>
 
                                 <div class="form-group">
                                     <input type="password" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password" name="password">
-                                    <?= form_error('password', '<div class="text-danger samall">', '</div>'); ?>
+                                    <?= form_error('password', '<div class="text-danger small">', '</div>'); ?>
                                 </div>
 
                                 <button type="submit" class="btn btn-outline-dark form-control"> registrasi </button>
