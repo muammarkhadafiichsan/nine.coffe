@@ -12,6 +12,7 @@ class Menu_berita1 extends CI_Controller
     }
 
     public function index()
+
     {
 
         $data['berita'] = $this->Model_berita->tampil_data()->result();

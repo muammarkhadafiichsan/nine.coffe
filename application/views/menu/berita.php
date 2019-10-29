@@ -9,52 +9,70 @@
 
                 <img src="<?= base_url('assets/images/logo_nine.png'); ?>" class="d-block w-100" alt="...">
 
+
                 <div class="carousel-caption d-none d-md-block">
 
                 </div>
             </div>
 
-            <section class="ftco-section">
 
+
+            <!-- ================ news section start ================= -->
+            <section class="section-margin">
                 <div class="container">
-
-                    <div class="row d-flex">
-                        <?php foreach ($berita as $brt) : ?>
-
-                            <div class="col-md-4 d-flex ftco-animate">
-                                <div class="blog-entry align-self-stretch">
-
-                                    <img src="<?php echo base_url('assets/images/') . $brt->foto; ?>" class="block-20">
-                                    </a>
-                                    <div class="text py-4 d-block">
-                                        <div class="meta">
-                                            <div><a href="#"> <?= $brt->tanggal ?></a></div>
-                                            <div><a href=""></a></div>
-                                        </div>
-                                        <h3 class="heading mt-2"><a href="#"><?= $brt->judul ?></a></h3>
-                                        <p> <?= $brt->deskripsi ?></p>
-                                        <p><a href="<?= base_url('Menu_berita1');
-                                                        '/index' ?>" class="btn btn-primary btn-outline-primary px-4 py-3">Baca Selengkapnya</a></p>
-                                    </div>
+                    <div class="row">
+                        <div class="col-md-6 col-lg-4 mb-4 mb-md-0">
+                            <div class="card card-news">
+                                <div class="card-news__img">
+                                    <img class="card-img" src="assets10/img/home/berita1.jpg" alt="">
+                                </div>
+                                <div class="card-body">
+                                    <h4 class="card-news__title"><a href="#">Hotel companies tipped the scales</a></h4>
+                                    <ul class="card-news__info">
+                                        <li><a href="#"><span class="news-icon"><i class="ti-notepad"></i></span> 20th Nov, 2018</a></li>
+                                        <li><a href="#"><span class="news-icon"><i class="ti-comment"></i></span> 03 Comments</a></li>
+                                    </ul>
+                                    <p>Not thoughts all exercise blessing Indulgence way everything joy alteration boisterous the attachment party we years to order</p>
+                                    <a class="card-news__link" href="#">Read More <i class="ti-arrow-right"></i></a>
                                 </div>
                             </div>
-                        <?php endforeach; ?>
+                        </div>
 
-            </section>
+                        <div class="col-md-6 col-lg-4 mb-4 mb-md-0">
+                            <div class="card card-news">
+                                <div class="card-news__img">
+                                    <img class="card-img" src="assets10/img/home/berita1.jpg" alt="">
+                                </div>
+                                <div class="card-body">
+                                    <h4 class="card-news__title"><a href="#">Try your hand inaugural industry crossword</a></h4>
+                                    <ul class="card-news__info">
+                                        <li><a href="#"><span class="news-icon"><i class="ti-notepad"></i></span> 20th Nov, 2018</a></li>
+                                        <li><a href="#"><span class="news-icon"><i class="ti-comment"></i></span> 03 Comments</a></li>
+                                    </ul>
+                                    <p>Not thoughts all exercise blessing Indulgence way everything joy alteration boisterous the attachment party we years to order</p>
+                                    <a class="card-news__link" href="#">Read More <i class="ti-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
 
-            <div class="row mt-5 col text-center">
-                <div class="col text-center">
-                    <div class="block-27">
-                        <ul>
-                            <li><a href="#">&lt;</a></li>
-                            <li class="active"><span>1</span></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                            <li><a href="#">4</a></li>
-                            <li><a href="#">5</a></li>
-                            <li><a href="#">&gt;</a></li>
-                        </ul>
+                        <div class="col-md-6 col-lg-4 mb-4 mb-md-0">
+                            <div class="card card-news">
+                                <div class="card-news__img">
+                                    <img class="card-img" src="assets10/img/home/berita1.jpg" alt="">
+                                </div>
+                                <div class="card-body">
+                                    <h4 class="card-news__title"><a href="#">Hoteliers resolve to invest in guests</a></h4>
+                                    <ul class="card-news__info">
+                                        <li><a href="#"><span class="news-icon"><i class="ti-notepad"></i></span> 20th Nov, 2018</a></li>
+                                        <li><a href="#"><span class="news-icon"><i class="ti-comment"></i></span> 03 Comments</a></li>
+                                    </ul>
+                                    <p>Not thoughts all exercise blessing Indulgence way everything joy alteration boisterous the attachment party we years to order</p>
+                                    <a class="card-news__link" href="#">Read More <i class="ti-arrow-right"></i></a>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
+            </section>
+            <!-- ================ news section end ================= -->
