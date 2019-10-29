@@ -90,32 +90,34 @@
 	</div>
 </section>
 
-    <section class="ftco-section">
-    	<div class="container">
-    		<div class="row justify-content-center mb-5 pb-3">
-          <div class="col-md-7 heading-section ftco-animate text-center">
-          	<span class="subheading">Barista</span>
-            <h2 class="mb-4">Nine Coffee</h2>
-            <p></p>
-          </div>
-        </div>
-        <div class="row justify-content-center">
-        	<div class="col-md-3">
-        		<div class="menu-entry">
-    					<a href="#" class="img" style="background-image: url();"></a>
-    					<div class="text text-center pt-4">
-    						<h3><a href="#"></a></h3>
-    						<p></p>
-    						 <div class="social">
-                                            <a href="#" class="btn"><i class="fa fa-facebook"></i></a>
-                                            <a href="#" class="btn"><i class="fa fa-instagram"></i></a>
-                                            <a href="#" class="btn"><i class="fa fa-twitter"></i></a>
-                                            <a href="#" class="btn"><i class="fa fa-envelope"></i></a>
-                             </div>
-    					</div>
-    				</div>
-        	</div>
+<section class="ftco-section">
+	<div class="container">
+		<div class="row justify-content-center mb-5 pb-3">
+			<div class="col-md-7 heading-section ftco-animate text-center">
+				<h2 class="mb-4">BARISTA</h2>
+				<h3 class="mb-4">nine coffee</h3>
+				<p></p>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<?php foreach ($barista as $brs) : ?>
+				<div class="col-md-3">
+					<div class="menu-entry">
+						<img src="<?php echo base_url('assets/images/') . $brs->foto; ?>" class="block-20">
+						<div class="text text-center pt-4">
+							<h3><?= $brs->nama_barista ?></h3>
+							<p><?= $brs->deskripsi ?></p>
+							<div class="social">
+								<a href="#" class="btn"><i class="fa fa-facebook"></i></a>
+								<a href="#" class="btn"><i class="fa fa-instagram"></i></a>
+								<a href="#" class="btn"><i class="fa fa-twitter"></i></a>
+								<a href="#" class="btn"><i class="fa fa-envelope"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			<?php endforeach; ?>
 
-        </div>
-    	</div>
-    </section>
+		</div>
+	</div>
+</section>

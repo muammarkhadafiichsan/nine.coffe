@@ -1,16 +1,17 @@
-<?php
+<?php defined('BASEPATH') or exit('No direct script access allowed');
 
-class Model_produk extends CI_Model
+class Model_barista extends CI_Model
 {
     public function tampil_data()
     {
-        return $this->db->get('produk');
+        return $this->db->get('barista');
     }
-    public function input_produk($data, $table)
+
+    public function input_barista($data, $table)
     {
         $this->db->insert($table, $data);
     }
-    public function edit_produk($where, $table)
+    public function edit_barista($where, $table)
 
     {
         return $this->db->get_where($table, $where);

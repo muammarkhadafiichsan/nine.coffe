@@ -41,10 +41,7 @@
                         <label>foto</label>
                         <input type="file" name="foto" class="form-control">
                     </div>
-                    <div class="form-group">
-                        <label>Tanggal</label>
-                        <input type="date" name="tanggal" class="form-control">
-                    </div>
+
                     <button type="submit" class="btn btn-primary">Simpan</button>
 
                 </form>

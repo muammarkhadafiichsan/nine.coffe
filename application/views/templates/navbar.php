@@ -10,7 +10,7 @@
             </button>
             <div class="collapse navbar-collapse" id="ftco-nav">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item "><a href="<?= base_url('Auth'); ?>" class="nav-link">BERANDA</a></li>
+                    <li class="nav-item "><a href="<?= base_url('Body'); ?>" class="nav-link">BERANDA</a></li>
                     <li class="nav-item "><a href="<?= base_url('Menu_produk');
                                                     '/index' ?>" class="nav-link">PRODUK</a></li>
                     <li class="nav-item dropdown">

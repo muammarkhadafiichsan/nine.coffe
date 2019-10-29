@@ -31,30 +31,32 @@
                                             <div class="row">
                                                 <div class="col-xs-6">
                                                     <span class="item-name">
-                                                        
+
                                                     </span>
                                                     <span>
-                                                        
+
                                                     </span>
                                                     <p><a href="#" class="btn btn-primary btn-outline-primary px-4 py-3">Baca Selengkapnya</a></p>
                                                 </div>
-                                            
+
+
                                             </div>
                                         </div> <!-- end of /.item-description -->
                                     </div> <!-- end of /.portfolio-item -->
                                 </div>
 
 
-                                        </div> <!-- end of /.item-description -->
-                                    </div> <!-- end of /.portfolio-item --> 
-                                </div>
 
-                            </div>
-                        </div> <!-- end of portfolio-item-list -->
-                            
+                            </div> <!-- end of /.item-description -->
+                        </div> <!-- end of /.portfolio-item -->
                     </div>
-                </section> 
-                <!--   end of portfolio section  -->
+
+            </div>
+            </div> <!-- end of portfolio-item-list -->
+
+            </div>
+
+            </section>
+            <!--   end of portfolio section  -->
 
             </div> <!-- end of /.main-content -->
-

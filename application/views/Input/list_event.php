@@ -7,7 +7,7 @@
                         <table class="table table-border">
                             <tr>
                                 <th>no</th>
-                                <th>judul</th>
+                                <th>judul event</th>
                                 <th>deskripsi</th>
                                 <th>foto</th>
                                 <th>tanggal</th>
@@ -15,16 +15,17 @@
                             </tr>
                             <?php
                             $no = 1;
-                            foreach ($berita as $brt) : ?>
+                            foreach ($event as $evn) : ?>
                                 <tr>
                                     <td><?= $no++ ?></td>
-                                    <td><?= $brt->judul ?></td>
-                                    <td><?php echo substr($brt->deskripsi, 0, 50) ?>...</td>
-                                    <td> <img src="<?php echo base_url('assets/images/') . $brt->foto; ?>"></td>
-                                    <td><?= $brt->tanggal ?></td>
+                                    <td><?= $evn->nama_event ?></td>
+                                    <td><?php echo substr($evn->deskripsi, 0, 50) ?>...</td>
+                                    <td> <img src="<?php echo base_url('assets/images/') . $evn->foto; ?>"></td>
+                                    <td><?= $evn->tanggal ?></td>
+
                                     <td>
-                                        <a href="<?= site_url('admin/news/edit/' . $brt->Id) ?> "> <i class=""></i> Edit</a>
-                                        <a href="<?= site_url('admin/news/hapus/' . $brt->Id) ?>" class=""><i class=""></i> | Hapus</a>
+                                        <a href="<?= site_url('admin/event/edit/' . $evn->Id) ?> "> <i class=""></i> Edit</a>
+                                        <a href="<?= site_url('admin/event/hapus/' . $evn->Id) ?>" class=""><i class=""></i> | Hapus</a>
                                     </td>
                                 </tr>
 

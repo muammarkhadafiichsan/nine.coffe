@@ -33,18 +33,20 @@
 
 
 
-          <div class="norow">
-            <div class="masonry_wrapper" data-scroll-reveal="enter from the bottom after 0.5s">
-              <div class="item entry item-h2 ">
-                <img src="assets/images/produk2.jpg" alt="" class="img-responsive">
-                <div class="hovereffect">
-                  <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
-                  <div class="buttons">
-                    <h4></h4>
-                    <h5></h5>
-                  </div><!-- end buttons -->
-                </div><!-- end hovereffect -->
-              </div>
+          <?php foreach ($produk as $pro) : ?>
+            <div class="norow">
+              <div class="masonry_wrapper" data-scroll-reveal="enter from the bottom after 0.5s">
+                <div class="item entry item-h2 ">
+                  <img src="<?php echo base_url('assets/images/') . $pro->foto; ?>" alt="" class="img-responsive">
+                  <div class="hovereffect">
+                    <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
+                    <div class="buttons">
+                      <h5><?= $pro->nama_produk ?></h5>
+                      <h4><?= $pro->deskripsi ?></h4>
+                    </div><!-- end buttons -->
+                  </div><!-- end hovereffect -->
+                </div>
+              <?php endforeach; ?>
 
 
 

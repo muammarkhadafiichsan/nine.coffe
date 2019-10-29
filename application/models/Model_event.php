@@ -1,16 +1,17 @@
 <?php
 
-class Model_produk extends CI_Model
+class Model_event extends CI_Model
 {
     public function tampil_data()
     {
-        return $this->db->get('produk');
+        return $this->db->get('event');
     }
-    public function input_produk($data, $table)
+
+    public function input_event($data, $table)
     {
         $this->db->insert($table, $data);
     }
-    public function edit_produk($where, $table)
+    public function edit_event($where, $table)
 
     {
         return $this->db->get_where($table, $where);

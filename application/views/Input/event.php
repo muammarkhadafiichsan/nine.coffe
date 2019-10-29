@@ -26,12 +26,12 @@
     <div class="col-12 grid-margin stretch-card">
         <div class="card">
             <div class="card-body">
-                <form action="<?= base_url() . 'admin/news/tambah_berita' ?>" method="post" enctype="multipart/form-data">
+                <form action="<?= base_url() . 'Admin/Event/tambah_event' ?>" method="post" enctype="multipart/form-data">
                     <h4 class="card-title">Inputkan Event</h4>
                     <p class="card-description"></p>
                     <div class="form-group">
-                        <label>Judul</label>
-                        <input type="text" name="judul" class="form-control">
+                        <label>Judul Event</label>
+                        <input type="text" name="nama_event" class="form-control">
                     </div>
                     <div class="form-group">
                         <label>Deskripsi</label>

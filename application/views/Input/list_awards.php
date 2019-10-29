@@ -15,16 +15,16 @@
                             </tr>
                             <?php
                             $no = 1;
-                            foreach ($berita as $brt) : ?>
+                            foreach ($awards as $awd) : ?>
                                 <tr>
                                     <td><?= $no++ ?></td>
-                                    <td><?= $brt->judul ?></td>
-                                    <td><?php echo substr($brt->deskripsi, 0, 50) ?>...</td>
-                                    <td> <img src="<?php echo base_url('assets/images/') . $brt->foto; ?>"></td>
-                                    <td><?= $brt->tanggal ?></td>
+                                    <td><?= $awd->judul ?></td>
+                                    <td><?php echo substr($awd->deskripsi, 0, 50) ?>...</td>
+                                    <td> <img src="<?php echo base_url('assets/images/') . $awd->foto; ?>"></td>
+                                    <td><?= $awd->tanggal ?></td>
                                     <td>
-                                        <a href="<?= site_url('admin/news/edit/' . $brt->Id) ?> "> <i class=""></i> Edit</a>
-                                        <a href="<?= site_url('admin/news/hapus/' . $brt->Id) ?>" class=""><i class=""></i> | Hapus</a>
+                                        <a href="<?= site_url('admin/awards/edit/' . $awd->Id) ?> "> <i class=""></i> Edit</a>
+                                        <a href="<?= site_url('admin/awards/hapus/' . $awd->Id) ?>" class=""><i class=""></i> | Hapus</a>
                                     </td>
                                 </tr>
 

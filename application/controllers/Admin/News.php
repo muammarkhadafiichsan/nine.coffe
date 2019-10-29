@@ -6,7 +6,15 @@ class News extends CI_Controller
     public function __construct()
     {
         parent::__construct();
-
+        if ($this->session->userdata('role_id') != '1') {
+            $this->session->set_flashdata('pesan', '<div class="alert alert-danger alert-dismissible fade show" role="alert">
+           anda belum login
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>');
+            redirect('auth/login');
+        }
 
         $this->load->model("Model_berita");
     }
@@ -61,5 +69,47 @@ class News extends CI_Controller
         $this->load->view('admin/sidebar');
         $this->load->view('Input/list_berita', $data);
         $this->load->view('admin/footer');
+    }
+    public function edit($Id)
+    {
+        $where = array('Id' => $Id);
+        $data['berita'] = $this->Model_berita->edit_berita($where, 'berita')->result();
+        $this->load->view('admin/header');
+        $this->load->view('admin/sidebar');
+        $this->load->view('Input/edit_berita', $data);
+        $this->load->view('admin/footer');
+    }
+
+    public function update()
+    {
+        $Id = $this->input->post('Id');
+        $judul = $this->input->post('judul');
+        $deskripsi = $this->input->post('deskripsi');
+        $tanggal = $this->input->post('tanggal');
+
+
+
+        $data = array(
+            'judul' => $judul,
+            'deskripsi' => $deskripsi,
+            'tanggal' => $tanggal
+
+
+
+        );
+
+        $where = array(
+            'Id' => $Id
+        );
+
+        $this->Model_berita->update($where, $data, 'berita');
+        redirect('admin/news/list');
+    }
+
+    public function hapus($Id)
+    {
+        $where = array('Id' => $Id);
+        $this->Model_berita->hapus($where, 'berita');
+        redirect('admin/news/list');
     }
 }

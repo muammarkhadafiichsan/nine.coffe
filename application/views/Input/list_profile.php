@@ -10,21 +10,20 @@
                                 <th>judul</th>
                                 <th>deskripsi</th>
                                 <th>foto</th>
-                                <th>tanggal</th>
                                 <th>aksi</th>
                             </tr>
                             <?php
                             $no = 1;
-                            foreach ($berita as $brt) : ?>
+                            foreach ($profile as $prf) : ?>
                                 <tr>
                                     <td><?= $no++ ?></td>
-                                    <td><?= $brt->judul ?></td>
-                                    <td><?php echo substr($brt->deskripsi, 0, 50) ?>...</td>
-                                    <td> <img src="<?php echo base_url('assets/images/') . $brt->foto; ?>"></td>
-                                    <td><?= $brt->tanggal ?></td>
+                                    <td><?= $prf->judul ?></td>
+                                    <td><?php echo substr($prf->deskripsi, 0, 50) ?>...</td>
+                                    <td> <img src="<?php echo base_url('assets/images/') . $prf->foto; ?>"></td>
+
                                     <td>
-                                        <a href="<?= site_url('admin/news/edit/' . $brt->Id) ?> "> <i class=""></i> Edit</a>
-                                        <a href="<?= site_url('admin/news/hapus/' . $brt->Id) ?>" class=""><i class=""></i> | Hapus</a>
+                                        <a href="<?= site_url('admin/profile/edit/' . $prf->Id) ?> "> <i class=""></i> Edit</a>
+                                        <a href="<?= site_url('admin/profile/hapus/' . $prf->Id) ?>" class=""><i class=""></i> | Hapus</a>
                                     </td>
                                 </tr>
 

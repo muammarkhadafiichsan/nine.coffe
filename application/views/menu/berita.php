@@ -15,41 +15,45 @@
             </div>
 
             <section class="ftco-section">
+
                 <div class="container">
+
                     <div class="row d-flex">
-                        <div class="col-md-4 d-flex ftco-animate">
-                            <div class="blog-entry align-self-stretch">
-                                <a href="blog-single.html" class="block-20" style="background-image: url();">
-                                </a>
-                                <div class="text py-4 d-block">
-                                    <div class="meta">
-                                        <div><a href="#"></a></div>
-                                        <div><a href=""></a></div>
+                        <?php foreach ($berita as $brt) : ?>
+
+                            <div class="col-md-4 d-flex ftco-animate">
+                                <div class="blog-entry align-self-stretch">
+
+                                    <img src="<?php echo base_url('assets/images/') . $brt->foto; ?>" class="block-20">
+                                    </a>
+                                    <div class="text py-4 d-block">
+                                        <div class="meta">
+                                            <div><a href="#"> <?= $brt->tanggal ?></a></div>
+                                            <div><a href=""></a></div>
+                                        </div>
+                                        <h3 class="heading mt-2"><a href="#"><?= $brt->judul ?></a></h3>
+                                        <p> <?= $brt->deskripsi ?></p>
+                                        <p><a href="" class="btn btn-primary btn-outline-primary px-4 py-3">Baca Selengkapnya</a></p>
                                     </div>
-                                    <h3 class="heading mt-2"><a href="#"></a></h3>
-                                    <p></p>
-                                    <p><a href="<?= base_url('Menu_berita1');
-                                                            '/index' ?>" class="btn btn-primary btn-outline-primary px-4 py-3">Baca Selengkapnya</a></p>
                                 </div>
                             </div>
-                        </div>
+                        <?php endforeach; ?>
 
-
-
-                        <div class="row mt-5 col text-center">
-                            <div class="col text-center">
-                                <div class="block-27">
-                                    <ul>
-                                        <li><a href="#">&lt;</a></li>
-                                        <li class="active"><span>1</span></li>
-                                        <li><a href="#">2</a></li>
-                                        <li><a href="#">3</a></li>
-                                        <li><a href="#">4</a></li>
-                                        <li><a href="#">5</a></li>
-                                        <li><a href="#">&gt;</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
             </section>
+
+            <div class="row mt-5 col text-center">
+                <div class="col text-center">
+                    <div class="block-27">
+                        <ul>
+                            <li><a href="#">&lt;</a></li>
+                            <li class="active"><span>1</span></li>
+                            <li><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">4</a></li>
+                            <li><a href="#">5</a></li>
+                            <li><a href="#">&gt;</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>

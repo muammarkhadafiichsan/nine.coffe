@@ -7,24 +7,25 @@
                         <table class="table table-border">
                             <tr>
                                 <th>no</th>
-                                <th>judul</th>
+                                <th>nama produk</th>
                                 <th>deskripsi</th>
                                 <th>foto</th>
-                                <th>tanggal</th>
+                                <th>sejarah</th>
                                 <th>aksi</th>
                             </tr>
                             <?php
                             $no = 1;
-                            foreach ($berita as $brt) : ?>
+                            foreach ($produk as $pro) : ?>
                                 <tr>
                                     <td><?= $no++ ?></td>
-                                    <td><?= $brt->judul ?></td>
-                                    <td><?php echo substr($brt->deskripsi, 0, 50) ?>...</td>
-                                    <td> <img src="<?php echo base_url('assets/images/') . $brt->foto; ?>"></td>
-                                    <td><?= $brt->tanggal ?></td>
+                                    <td><?= $pro->nama_produk ?></td>
+                                    <td><?php echo substr($pro->deskripsi, 0, 50) ?>...</td>
+                                    <td> <img src="<?php echo base_url('assets/images/') . $pro->foto; ?>"></td>
+                                    <td><?php echo substr($pro->sejarah, 0, 50) ?>...</td>
+
                                     <td>
-                                        <a href="<?= site_url('admin/news/edit/' . $brt->Id) ?> "> <i class=""></i> Edit</a>
-                                        <a href="<?= site_url('admin/news/hapus/' . $brt->Id) ?>" class=""><i class=""></i> | Hapus</a>
+                                        <a href="<?= site_url('admin/produk/edit/' . $pro->Id) ?> "> <i class=""></i> Edit</a>
+                                        <a href="<?= site_url('admin/produk/hapus/' . $pro->Id) ?>" class=""><i class=""></i> | Hapus</a>
                                     </td>
                                 </tr>
 

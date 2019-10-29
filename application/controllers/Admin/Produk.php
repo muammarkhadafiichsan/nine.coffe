@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class Event extends CI_Controller
+class Produk extends CI_Controller
 {
 
     public function __construct()
@@ -17,23 +17,23 @@ class Event extends CI_Controller
             redirect('auth/login');
         }
 
-        $this->load->model("Model_event");
+        $this->load->model("Model_produk");
     }
 
     public function index()
     {
-        $data['event'] = $this->Model_event->tampil_data()->result();
+        $data['produk'] = $this->Model_produk->tampil_data()->result();
         $this->load->view('admin/header');
         $this->load->view('admin/sidebar');
-        $this->load->view('Input/event', $data);
+        $this->load->view('Input/produk', $data);
         $this->load->view('admin/footer');
     }
-    public function tambah_event()
+    public function tambah_produk()
     {
         $Id = $this->input->post('Id');
-        $nama_event = $this->input->post('nama_event');
+        $nama_produk = $this->input->post('nama_produk');
         $deskripsi = $this->input->post('deskripsi');
-        $tanggal = $this->input->post('tanggal');
+        $sejarah = $this->input->post('sejarah');
         $foto = $_FILES['foto']['name'];
         if ($foto = '') { } else {
             $config['upload_path'] =  './assets/images';
@@ -48,52 +48,53 @@ class Event extends CI_Controller
         }
         $data = array(
             'Id' => $Id,
-            'nama_event' => $nama_event,
+            'nama_produk' => $nama_produk,
             'deskripsi' => $deskripsi,
-            'tanggal' => $tanggal,
+            'sejarah' => $sejarah,
             'foto' => $foto
 
         );
 
 
-        $this->Model_event->input_event($data, 'event');
-        redirect('Admin/Event/index');
+        $this->Model_produk->input_produk($data, 'produk');
+        redirect('Admin/Produk/index');
     }
 
     public function list()
     {
-        $data['event'] = $this->Model_event->tampil_data()->result();
+        $data['produk'] = $this->Model_produk->tampil_data()->result();
         $this->load->view('admin/header');
         $this->load->view('admin/sidebar');
-        $this->load->view('Input/list_event', $data);
+        $this->load->view('Input/list_produk', $data);
         $this->load->view('admin/footer');
     }
 
     public function edit($Id)
     {
         $where = array('Id' => $Id);
-        $data['event'] = $this->Model_event->edit_event($where, 'event')->result();
+        $data['produk'] = $this->Model_event->edit_produk($where, 'produk')->result();
         $this->load->view('admin/header');
         $this->load->view('admin/sidebar');
-        $this->load->view('Input/edit_event', $data);
+        $this->load->view('Input/edit_produk', $data);
         $this->load->view('admin/footer');
     }
 
     public function update()
     {
         $Id = $this->input->post('Id');
-        $nama_event = $this->input->post('nama_event');
+        $nama_produk = $this->input->post('nama_produk');
         $deskripsi = $this->input->post('deskripsi');
-        $tanggal = $this->input->post('tanggal');
+        $sejarah = $this->input->post('sejarah');
 
 
 
 
 
         $data = array(
-            'nama_event' => $nama_event,
+            'nama_produk' => $nama_produk,
             'deskripsi' => $deskripsi,
-            'tanggal' => $tanggal
+            'sejarah' => $sejarah
+
 
 
 
@@ -104,14 +105,14 @@ class Event extends CI_Controller
             'Id' => $Id
         );
 
-        $this->Model_event->update($where, $data, 'event');
-        redirect('Admin/Event/list');
+        $this->Model_produk->update($where, $data, 'produk');
+        redirect('Admin/Produk/list');
     }
 
     public function hapus($Id)
     {
         $where = array('Id' => $Id);
-        $this->Model_event->hapus($where, 'event');
-        redirect('Admin/Event/list');
+        $this->Model_produk->hapus($where, 'produk');
+        redirect('Admin/Produk/list');
     }
 }
