@@ -34,7 +34,7 @@
                                         <h3 class="heading mt-2"><a href="#"><?= $brt->judul ?></a></h3>
                                         <p> <?= $brt->deskripsi ?></p>
                                         <p><a href="<?= base_url('Menu_berita1');
-                                                            '/index' ?>" class="btn btn-primary btn-outline-primary px-4 py-3">Baca Selengkapnya</a></p>
+                                                        '/index' ?>" class="btn btn-primary btn-outline-primary px-4 py-3">Baca Selengkapnya</a></p>
                                     </div>
                                 </div>
                             </div>
