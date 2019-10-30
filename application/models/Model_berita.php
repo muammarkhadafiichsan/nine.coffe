@@ -29,4 +29,13 @@ class Model_berita extends CI_Model
         $this->db->where($where);
         $this->db->delete($table);
     }
+    public function detail_berita($Id)
+    {
+        $result = $this->db->where('Id', $Id)->get('berita');
+        if ($result->num_rows() > 0) {
+            return $result->result();
+        } else {
+            return false;
+        }
+    }
 }
