@@ -10,6 +10,7 @@ class Body extends CI_Controller
 
 
         $this->load->model("Model_awards");
+        $this->load->model("Model_berita");
     }
 
     public function index()
@@ -20,7 +21,19 @@ class Body extends CI_Controller
         $this->load->view('templates/header5');
         $this->load->view('templates/navbar');
         $this->load->view('templates/body', $data);
+        $this->load->view('templates/footer5');
         $this->load->view('templates/footer');
-        
+    }
+    public function berita($Id)
+
+    {
+
+        $data['berita'] = $this->Model_berita->detail_berita($Id);
+        $this->load->view('templates/header');
+        $this->load->view('templates/header8');
+        $this->load->view('templates/navbar');
+        $this->load->view('tampilan/view_berita', $data);
+        $this->load->view('templates/footer8');
+        $this->load->view('templates/footer');
     }
 }
