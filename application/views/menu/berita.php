@@ -7,7 +7,7 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
 
-                <img src="<?= base_url('assets/images/logo_nine.png'); ?>" class="d-block w-100" alt="...">
+                <img src="<?= base_url('assets/images/logo_nine.png'); ?>" class="d-block w-100" alt="..." height="950" width="500">
 
 
                 <div class="carousel-caption d-none d-md-block">
@@ -21,57 +21,27 @@
             <section class="section-margin">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6 col-lg-4 mb-4 mb-md-0">
-                            <div class="card card-news">
-                                <div class="card-news__img">
-                                    <img class="card-img" src="assets10/img/home/berita1.jpg" alt="">
-                                </div>
-                                <div class="card-body">
-                                    <h4 class="card-news__title"><a href="#">Hotel companies tipped the scales</a></h4>
-                                    <ul class="card-news__info">
-                                        <li><a href="#"><span class="news-icon"><i class="ti-notepad"></i></span> 20th Nov, 2018</a></li>
-                                        <li><a href="#"><span class="news-icon"><i class="ti-comment"></i></span> 03 Comments</a></li>
-                                    </ul>
-                                    <p>Not thoughts all exercise blessing Indulgence way everything joy alteration boisterous the attachment party we years to order</p>
-                                    <a class="card-news__link" href="#">Read More <i class="ti-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-6 col-lg-4 mb-4 mb-md-0">
-                            <div class="card card-news">
-                                <div class="card-news__img">
-                                    <img class="card-img" src="assets10/img/home/berita1.jpg" alt="">
-                                </div>
-                                <div class="card-body">
-                                    <h4 class="card-news__title"><a href="#">Try your hand inaugural industry crossword</a></h4>
-                                    <ul class="card-news__info">
-                                        <li><a href="#"><span class="news-icon"><i class="ti-notepad"></i></span> 20th Nov, 2018</a></li>
-                                        <li><a href="#"><span class="news-icon"><i class="ti-comment"></i></span> 03 Comments</a></li>
-                                    </ul>
-                                    <p>Not thoughts all exercise blessing Indulgence way everything joy alteration boisterous the attachment party we years to order</p>
-                                    <a class="card-news__link" href="#">Read More <i class="ti-arrow-right"></i></a>
+                        <?php foreach ($berita as $brt) : ?>
+                            <div class="col-md-6 col-lg-4 mb-4 mb-md-0">
+                                <div class="card card-news">
+                                    <div class="card-news__img">
+                                        <img class="card-img" src="<?php echo base_url('assets/images/') . $brt->foto; ?>" alt="" width="450" height="350">
+                                    </div>
+                                    <div class="card-body">
+                                        <h4 class="card-news__title"><?= $brt->judul ?></a></h4>
+                                        <ul class="card-news__info">
+                                            <li><a href="#"><span class="news-icon"><i class="ti-notepad"></i></span> <?= $brt->tanggal ?></a></li>
+                                            <li><a href="#"><span class="news-icon"><i class="ti-comment"></i></span> Penulis: Admin</a></li>
+                                        </ul>
+                                        <p><?php echo substr($brt->deskripsi, 0, 50) ?>...</p>
+                                        <?php echo anchor('Body/berita/' . $brt->Id, '<div class="btn btn-sm btn-dark"> selengkapnya </div>') ?>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        <?php endforeach; ?>
 
-                        <div class="col-md-6 col-lg-4 mb-4 mb-md-0">
-                            <div class="card card-news">
-                                <div class="card-news__img">
-                                    <img class="card-img" src="assets10/img/home/berita1.jpg" alt="">
-                                </div>
-                                <div class="card-body">
-                                    <h4 class="card-news__title"><a href="#">Hoteliers resolve to invest in guests</a></h4>
-                                    <ul class="card-news__info">
-                                        <li><a href="#"><span class="news-icon"><i class="ti-notepad"></i></span> 20th Nov, 2018</a></li>
-                                        <li><a href="#"><span class="news-icon"><i class="ti-comment"></i></span> 03 Comments</a></li>
-                                    </ul>
-                                    <p>Not thoughts all exercise blessing Indulgence way everything joy alteration boisterous the attachment party we years to order</p>
-                                    <a class="card-news__link" href="#">Read More <i class="ti-arrow-right"></i></a>
-                                </div>
 
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </section>
