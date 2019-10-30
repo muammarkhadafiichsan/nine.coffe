@@ -1,17 +1,25 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="stylesheet" type="text/css" href="<?= base_url('assets6/'); ?>assets/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="<?= base_url('assets6/'); ?>assets/font-awesome/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Lora:400i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="<?= base_url('assets6/'); ?>assets/css/style.css">
-    <script type="text/javascript" src="<?= base_url('assets6/'); ?>assets/js/script.js" ></script>
+<html lang="en">
+  <head>
 
-</head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="<?= base_url('assets6/'); ?>fonts/icomoon/style.css">
+    
+    <link rel="stylesheet" href="<?= base_url('assets6/'); ?>css/animate.css">
+    <link rel="stylesheet" href="<?= base_url('assets6/'); ?>css/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?= base_url('assets6/'); ?>css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="<?= base_url('assets6/'); ?>css/bootstrap-datepicker.css">
+    
+    
+    <link rel="stylesheet" href="<?= base_url('assets6/'); ?>fonts/flaticon/font/flaticon.css">
+  
+    <link rel="stylesheet" href="<?= base_url('assets6/'); ?>css/aos.css">
+    <link rel="stylesheet" href="<?= base_url('assets6/'); ?>css/jquery.fancybox.min.css">
+    
+
+    <link rel="stylesheet" href="<?= base_url('assets6/'); ?>css/style.css">
+    
+  </head>

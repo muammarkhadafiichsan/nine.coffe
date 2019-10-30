@@ -40,88 +40,88 @@
 
 <br>
 
-<div class="row justify-content-center">
-  <div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-    <h2>Tentang Nine Coffee</h2>
-    <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-  </div>
-</div>
-<br>
-
-<div id="colorlib-intro">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-md-12 tabulation animate-box">
-        <ul class="nav nav-tabs justify-content-center">
-          <li class="active"><a data-toggle="tab" href="#plan"><i class=""></i> Planning &amp; Design</a></li>
-          <li><a data-toggle="tab" href="#general"><i class=""></i> General Constructing</a></li>
-          <li><a data-toggle="tab" href="#manage"><i class=""></i> Construction Management</a></li>
-        </ul>
-        <div class="tab-content">
-          <div id="plan" class="tab-pane fade in active">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="services-img" style="background-image: url(assets6/images/logo_bundar.png);"></div>
-              </div>
-              <div class="col-md-6">
-                <div class="services-desc">
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  <ul>
-                    <li>It is a paradisematic country in which</li>
-                    <li>Even the all-powerful Pointing has no control</li>
-                    <li>When she reached the first hills of the Italic Mountains</li>
-                    <li>Alphabet Village and the subline of her own road</li>
-                  </ul>
-                </div>
-              </div>
+    <div class="site-section" id="portfolio-section">
+      <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+              <h2>About Nine Coffee</h2>
+              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
             </div>
           </div>
-          <div id="general" class="tab-pane fade">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="services-img" style="background-image: url(assets6/images/nine.jpg);"></div>
-              </div>
-              <div class="col-md-6">
-                <div class="services-desc">
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  <ul>
-                    <li>It is a paradisematic country in which</li>
-                    <li>Even the all-powerful Pointing has no control</li>
-                    <li>When she reached the first hills of the Italic Mountains</li>
-                    <li>Alphabet Village and the subline of her own road</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-
+        <div class="row mb-5">
+          <div class="col-lg-6 mb-4 mb-lg-0">
+            <img src="assets6/images/logo_nine.png" alt="Image" class="img-fluid" class="img-fluid">
           </div>
-          <div id="manage" class="tab-pane fade">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="services-img" style="background-image: url(assets6/images/building-3.jpg);"></div>
-              </div>
-              <div class="col-md-6">
-                <div class="services-desc">
-                  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  <ul>
-                    <li>It is a paradisematic country in which</li>
-                    <li>Even the all-powerful Pointing has no control</li>
-                    <li>When she reached the first hills of the Italic Mountains</li>
-                    <li>Alphabet Village and the subline of her own road</li>
-                  </ul>
-                </div>
-              </div>
+          <div class="col-lg-5 h-100 jm-sticky-top ml-auto">
+            <h3>Nine Coffee</h3>
+            <div class="col-md-12 mb-3">
+                <p><span>Address:</span><a href="">198 West 21th Street, Suite 721 New York NY 10016</a></p>
             </div>
-
+            <div class="col-md-12 mb-3">
+                <p><span>Phone:</span> <a href="">+ 1235 2355 98</a></p>
+            </div>
+            <p class="mb-4">Nine Coffee merupakan perusahaan swasta yang berada di Kabupaten Bondowoso yang bergerak dalam bidang pertanian serta pengolahan tanaman kopi khususnya yang berada di Kabupaten Bondowoso. Selain bekerjasama dengan beberapa pengurus kopi rakyat, Nine Coffee juga memiliki lahan seluas 6 hektar yang berada di kawasan gunung Ijen. Beberapa Produk unggulan Nine Coffe Roastery tidak hanya arabika, namun kopi robusta dan luwak juga tidak kalah pamor.</p>
+            <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
+                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-envelope"></span></a></li>
+              </ul>
           </div>
+        </div>
 
+        <div class="row mb-5">
+          <div class="col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0">
+            <img src="assets6/images/nine_1.jpg" alt="Image" class="img-fluid" class="img-fluid">
+          </div>
+            <div class="col-lg-5 h-100 jm-sticky-top mr-auto order-2 order-lg-1">
+              <h3>Kabupaten Bondowoso</h3>
+              <div class="col-md-12 mb-3">
+                <p><span>Address:</span><a href="">198 West 21th Street, Suite 721 New York NY 10016</a></p>
+              </div>
+              <div class="col-md-12 mb-3">
+                <p><span>Phone:</span> <a href="">+ 1235 2355 98</a></p>
+              </div>
+              <p class="mb-4">Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</p>
+
+              <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
+                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-envelope"></span></a></li>
+              </ul>
+          </div>
+        </div>
+
+        <div class="row mb-5">
+          <div class="col-lg-6 mb-4 mb-lg-0">
+            <img src="assets6/images/proses2.jpg" alt="Image" class="img-fluid" class="img-fluid">
+          </div>
+          <div class="col-lg-5 h-100 jm-sticky-top ml-auto">
+            <h3>Coffee Bean's</h3>
+            <div class="col-md-12 mb-3">
+                <p><span>Address:</span><a href="">198 West 21th Street, Suite 721 New York NY 10016</a></p>
+            </div>
+            <div class="col-md-12 mb-3">
+                <p><span>Phone:</span> <a href="">+ 1235 2355 98</a></p>
+            </div>
+            <p class="mb-4">Pengolaha FULLWASH(wet process) diamana pada masa pengolahan paska panen biji kopi yang telah dipetik 'biji merah' akan melalui fase peambangan untuk membuang kualitas kopi yang mengapung 'kopong' sebelum selanjutnya memasuki masa fermentasi selama kurang lebih 12-36 jam. Setelah itu biji kopi akan dibersihkan dari sisa lendir yang masih menempel sebelum selanjutnya dijemur hingga kadar air hingga 14%, yang iasanya disebut biji kopi gabah (HS kering). Sebelum masuk proses sangrai Biji kopi akan dipisah dari kulit tanduk yang masih menempel. Untuk memasuki proses sangrai biji maksimal mengandung 12% kadar air.
+            </p>
+            
+            <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
+                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-envelope"></span></a></li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
   </div>
-</div>
 
 <br>
+
 <div class="row justify-content-center">
   <div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
     <h2>Our Awards</h2>
