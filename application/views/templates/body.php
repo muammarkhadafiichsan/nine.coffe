@@ -59,7 +59,7 @@
                                     Kabupaten Bondowoso 68211</a></p>
             </div>
             <div class="col-md-12 mb-3">
-                <p><span>Phone:</span> <a href=""> +62 812-9312-0562 (Riswanda)</a></p>
+                <p><span>Phone:</span> <a href=""> +62 812-9312-0562</a></p>
             </div>
             <p class="mb-4">Nine Coffee merupakan perusahaan swasta yang berada di Kabupaten Bondowoso yang bergerak dalam bidang pertanian serta pengolahan tanaman kopi khususnya yang berada di Kabupaten Bondowoso. Selain bekerjasama dengan beberapa pengurus kopi rakyat, Nine Coffee juga memiliki lahan seluas 6 hektar yang berada di kawasan gunung Ijen. Beberapa Produk unggulan Nine Coffe Roastery tidak hanya arabika, namun kopi robusta dan luwak juga tidak kalah pamor.</p>
             <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
@@ -82,7 +82,7 @@
                                     Kabupaten Bondowoso 68211</a></p>
               </div>
               <div class="col-md-12 mb-3">
-                <p><span>Phone:</span> <a href=""> +62 812-9312-0562 (Riswanda)</a></p>
+                <p><span>Phone:</span> <a href=""> +62 812-9312-0562</a></p>
               </div>
               <p class="mb-4">Sejak dideklarasikan sebagai Republik Kopi pada Mei 2016 lalu, suasana baru terasa di Kabupaten Bondowoso, Jawa Timur. Kabupaten kecil berpenduduk 750 ribu jiwa lebih ini, punya hal baru yang menarik perhatian masyarakat. Ya, Kopi menjadi sesuatu yang sudah lama dikenal namun baru belakangan menjadi tren di Bondowoso.</p>
 
@@ -106,7 +106,7 @@
                                     Kabupaten Bondowoso 68211</a></p>
             </div>
             <div class="col-md-12 mb-3">
-                <p><span>Phone:</span> <a href=""> +62 812-9312-0562 (Riswanda)</a></p>
+                <p><span>Phone:</span> <a href=""> +62 812-9312-0562</a></p>
             </div>
             <p class="mb-4">Pengolaha FULLWASH(wet process) diamana pada masa pengolahan paska panen biji kopi yang telah dipetik 'biji merah' akan melalui fase peambangan untuk membuang kualitas kopi yang mengapung 'kopong' sebelum selanjutnya memasuki masa fermentasi selama kurang lebih 12-36 jam. Setelah itu biji kopi akan dibersihkan dari sisa lendir yang masih menempel sebelum selanjutnya dijemur hingga kadar air hingga 14%, yang iasanya disebut biji kopi gabah (HS kering). Sebelum masuk proses sangrai Biji kopi akan dipisah dari kulit tanduk yang masih menempel. Untuk memasuki proses sangrai biji maksimal mengandung 12% kadar air.
             </p>
