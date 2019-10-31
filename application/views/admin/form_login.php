@@ -11,13 +11,13 @@
                             <h4>Nine Coffee</h4>
                             <h6 class="font-weight-light">login untuk lanjut</h6>
                             <?= $this->session->flashdata('pesan') ?>
-                            <form method="post" action="<?= site_url('auth/login') ?>" class="pt-3">
+                            <form method="post" action="<?= base_url('Auth/login') ?>" class="pt-3">
                                 <div class="form-group">
                                     <input type="text" class="form-control form-control-lg" id="exampleInputEmail1" placeholder="Username" name="username">
                                     <?= form_error('username', '<div class="text-danger small">', '</div>'); ?>
                                 </div>
                                 <div class="form-group">
-                                    <input type="password" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password" name="password">
+                                    <input type="password" class="form-control form-control-user" id="password" placeholder="Password" name="password">
                                     <?= form_error('password', '<div class="text-danger samall">', '</div>'); ?>
                                 </div>
                                 <button type="submit" class="btn btn-outline-dark form-control"> masuk </button>

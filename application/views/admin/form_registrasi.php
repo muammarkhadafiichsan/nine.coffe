@@ -12,16 +12,16 @@
                             <h3 class="font-weight-light">sign up</h3>
                             <form method="post" action="<?= base_url('Registrasi/index') ?>" class="pt-3">
                                 <div class="form-group">
-                                    <input type="text" class="form-control form-control-lg" id="exampleInputUsername1" placeholder="nama" name="nama">
+                                    <input type="text" class="form-control form-control-lg" id="exampleInputUsername1" placeholder="nama" name="nama" value="<?= set_value('nama'); ?>">
                                     <?= form_error('nama', '<div class="text-danger small">', '</div>'); ?>
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" class="form-control form-control-lg" id="exampleInputEmail1" placeholder="username" name="username">
+                                    <input type="text" class="form-control form-control-lg" id="exampleInputEmail1" placeholder="username" name="username" value="<?= set_value('username'); ?>">
                                     <?= form_error('username', '<div class="text-danger small">', '</div>'); ?>
                                 </div>
 
                                 <div class="form-group">
-                                    <input type="password" class="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password" name="password">
+                                    <input type="password" class="form-control form-control-user" id="password" placeholder="Password" name="password">
                                     <?= form_error('password', '<div class="text-danger small">', '</div>'); ?>
                                 </div>
 

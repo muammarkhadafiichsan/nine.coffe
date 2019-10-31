@@ -4,7 +4,14 @@ defined('BASEPATH') or exit('No direct script access allowed');
 class Registrasi extends CI_Controller
 {
 
+    public function __construct()
+    {
+        parent::__construct();
 
+
+
+        $this->load->model("Model_login");
+    }
     public function index()
     {
         $this->form_validation->set_rules('nama', 'Nama', 'required');

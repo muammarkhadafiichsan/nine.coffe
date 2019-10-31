@@ -2,6 +2,11 @@
 
 class Model_login extends CI_Model
 {
+    function __construct()
+    {
+        $this->load->database();
+        parent::__construct();
+    }
     public function cek_login()
     {
         $username = set_value('username');

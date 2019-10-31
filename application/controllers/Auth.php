@@ -15,7 +15,7 @@ class Auth extends CI_Controller
     public function login()
     {
         $this->form_validation->set_rules('username', 'Username', 'required');
-        $this->form_validation->set_rules('password', 'Password', 'required');
+        $this->form_validation->set_rules('password', 'Password', 'trim|required');
         if ($this->form_validation->run() == FALSE) {
             $this->load->view('admin/header1');
             $this->load->view('admin/form_login');
@@ -32,6 +32,7 @@ class Auth extends CI_Controller
                 redirect('Auth/login');
             } else {
                 $this->session->set_userdata('username', $Auth->username);
+                $this->session->set_userdata('password', $Auth->password);
                 $this->session->set_userdata('role_id', $Auth->role_id);
 
                 switch ($Auth->role_id) {

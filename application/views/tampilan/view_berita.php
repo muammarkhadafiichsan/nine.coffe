@@ -7,7 +7,7 @@
                                         <?php foreach ($berita as $brt) : ?>
                                                 <div class="col-lg-12">
                                                         <div class="feature-img">
-                                                                <img class="img-fluid" src="<?php echo base_url('assets/images/') . $brt->foto; ?>" alt="">
+                                                                <img class="img-fluid " src="<?php echo base_url('assets/images/') . $brt->foto; ?>" alt="">
                                                         </div>
                                                 </div>
                                                 <div class="col-lg-3  col-md-3">
