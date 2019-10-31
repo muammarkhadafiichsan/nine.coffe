@@ -20,4 +20,17 @@ class Menu_event extends CI_Controller
         $this->load->view('templates/footer');
         $this->load->view('templates/footer7');
     }
+    public function event($Id)
+
+    {
+
+        $data['event'] = $this->Model_event->detail_event($Id);
+        $this->load->view('templates/header');
+        $this->load->view('templates/header8');
+        $this->load->view('templates/navbar');
+        $this->load->view('tampilan/view_event', $data);
+        $this->load->view('templates/footer8');
+        $this->load->view('templates/footer');
+        $this->load->view('templates/footer5');
+    }
 }

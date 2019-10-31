@@ -1,17 +1,18 @@
+
 <?php
 
-class Model_event extends CI_Model
+class Model_tips_trik extends CI_Model
 {
     public function tampil_data()
     {
-        return $this->db->get('event');
+        return $this->db->get('tips_trik');
     }
 
-    public function input_event($data, $table)
+    public function input_tips($data, $table)
     {
         $this->db->insert($table, $data);
     }
-    public function edit_event($where, $table)
+    public function edit_tips($where, $table)
 
     {
         return $this->db->get_where($table, $where);
@@ -28,9 +29,9 @@ class Model_event extends CI_Model
         $this->db->where($where);
         $this->db->delete($table);
     }
-    public function detail_event($Id)
+    public function detail_tips_trik($Id)
     {
-        $result = $this->db->where('Id', $Id)->get('event');
+        $result = $this->db->where('Id', $Id)->get('tips_trik');
         if ($result->num_rows() > 0) {
             return $result->result();
         } else {

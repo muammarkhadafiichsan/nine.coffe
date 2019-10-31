@@ -28,7 +28,7 @@
                                         <img class="card-img" src="<?php echo base_url('assets/images/') . $brt->foto; ?>" alt="" width="450" height="350">
                                     </div>
                                     <div class="card-body">
-                                        <h4 class="card-news__title"><?= $brt->judul ?></a></h4>
+                                        <p><?= $brt->judul ?></a></p>
                                         <ul class="card-news__info">
                                             <li><a href="#"><span class="news-icon"><i class="ti-notepad"></i></span> <?= $brt->tanggal ?></a></li>
                                             <li><a href="#"><span class="news-icon"><i class="ti-comment"></i></span> Penulis: Admin</a></li>

@@ -4,9 +4,9 @@
           <div class="headline text-center">
               <div class="row">
                   <div class="col-md-6 col-md-offset-3">
-                      <h2 class="section-title">show off our portfolio</h2>
+                      <h2 class="section-title">event - event yang diikuti Nine Coffee</h2>
                       <p class="section-sub-title">
-                          absolutely stunning design &amp; functionality
+                          info - info event terbaru dan yang sudah diikuti nine - coffee
                       </p> <!-- /.section-sub-title -->
                   </div>
               </div>
@@ -28,12 +28,12 @@
                                   <div class="row">
                                       <div class="col-xs-6">
                                           <span class="item-name">
-                                              <?= $evn->nama_event ?>
+                                              <?php echo substr($evn->nama_event, 0, 35) ?>....
                                           </span>
                                           <span>
                                               <?php echo substr($evn->deskripsi, 0, 50) ?>...
                                           </span>
-                                          <p><a href="#" class="btn btn-primary btn-outline-primary px-4 py-3">Baca Selengkapnya</a></p>
+                                          <?php echo anchor('Menu_event/event/' . $evn->Id, '<div class="btn btn-sm btn-gold"> selengkapnya </div>') ?>
                                       </div>
 
                                   </div>

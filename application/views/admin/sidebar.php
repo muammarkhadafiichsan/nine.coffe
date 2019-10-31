@@ -108,6 +108,20 @@
                     </ul>
                 </div>
                 </li>
+                <span class="nav-item">
+                    <a class="nav-link" data-toggle="collapse" href="#ui-basic5" aria-expanded="false" aria-controls="ui-basic5">
+                        <span class="menu-title">Tips & Trik</span>
+                        <i class="icon-layers menu-icon"></i>
+                    </a>
+                    <div class="collapse" id="ui-basic5">
+                        <ul class="nav flex-column sub-menu">
+                            <li class="nav-item"> <a class="nav-link" href="<?= base_url('Admin/Tips_trik/');
+                                                                            'index' ?>">Input</a></li>
+                            <li class="nav-item"> <a class="nav-link" href="<?= site_url('Admin/Tips_trik/list');
+                                                                            ?>">List</a></li>
+                        </ul>
+                    </div>
+                    </li>
 
         </ul>
     </nav>
