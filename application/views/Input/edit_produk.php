@@ -27,7 +27,7 @@
                         </div>
                         <div class="form-group">
                             <label>Deskripsi</label>
-                            <input type="text" name="deskripsi" class="form-control" value="<?= $pro->deskripsi ?>">
+                            <textarea type="text" name="deskripsi" class="form-control" value="<?= $pro->deskripsi ?>"></textarea>
                         </div>
                         <div class="form-group">
                             <label>Sejarah</label>

@@ -33,8 +33,8 @@
 
 
 
-          <?php foreach ($produk as $pro) : ?>
-            <div class="norow">
+          <div class="norow">
+            <?php foreach ($produk as $pro) : ?>
               <div class="masonry_wrapper" data-scroll-reveal="enter from the bottom after 0.5s">
                 <div class="item entry item-h2 ">
                   <img src="<?php echo base_url('assets/images/') . $pro->foto; ?>" alt="" class="img-responsive">
@@ -42,11 +42,32 @@
                     <a data-gal="prettyPhoto[product-gallery]" rel="bookmark" href="#"></i></span></a>
                     <div class="buttons">
                       <h5><?= $pro->nama_produk ?></h5>
-                      <h4><?= $pro->deskripsi ?></h4>
+                      <h4><?php echo substr($pro->deskripsi, 0, 50) ?>...</h4>
                     </div><!-- end buttons -->
                   </div><!-- end hovereffect -->
                 </div>
-              <?php endforeach; ?>
+              </div>
+              <button type="button" class="btn btn-dark btn-lg" data-toggle="modal" data-target="#exampleModalLong">Buka Modal</button>
+            <?php endforeach; ?>
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body">
+                    ...
+                  </div>
+                  <div class="modal-footer">
+
+                  </div>
+                </div>
+              </div>
+            </div>
 
 
 

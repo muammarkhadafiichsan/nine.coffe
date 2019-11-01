@@ -27,7 +27,7 @@
                         </div>
                         <div class="form-group">
                             <label>Deskripsi</label>
-                            <input type="text" name="deskripsi" class="form-control" value="<?= $prf->deskripsi ?>">
+                            <textarea type="text" name="deskripsi" class="form-control" value="<?= $prf->deskripsi ?>"></textarea>
                         </div>
 
                         <button type="submit" class="btn btn-primary">Simpan</button>

@@ -8,14 +8,15 @@ class Menu_Kafe extends CI_Controller
         parent::__construct();
 
 
-        $this->load->model("Model_barista");
+        $this->load->model(array('Model_barista', 'Model_kafe'));
     }
     public function index()
     {
         $data['barista'] = $this->Model_barista->tampil_data()->result();
+        $bar['kafe'] = $this->Model_kafe->tampil_data()->result();
         $this->load->view('templates/header');
         $this->load->view('templates/navbar');
-        $this->load->view('menu/kafe', $data);
+        $this->load->view('menu/kafe', $data, $bar);
         $this->load->view('templates/footer');
     }
 }
