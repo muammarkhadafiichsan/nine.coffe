@@ -32,7 +32,7 @@ class Auth extends CI_Controller
                 redirect('Auth/login');
             } else {
                 $this->session->set_userdata('username', $Auth->username);
-                $this->session->set_userdata('password', $Auth->password);
+                $this->session->set_userdata('password', ($Auth->password));
                 $this->session->set_userdata('role_id', $Auth->role_id);
 
                 switch ($Auth->role_id) {

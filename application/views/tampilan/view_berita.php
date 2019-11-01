@@ -62,7 +62,19 @@
 
                                 </div>
                         </div>
+
+                        <div class="anggota ml-5">
+                                <?php foreach ($berita as $br) : ?>
+                                        <h3>Berita terbaru :</h3>
+
+                                        <h5>
+                                                <?= $brt->judul ?>
+                                                <i class="fab fa-news"></i>
+                                        </h5>
+                                <?php endforeach; ?>
+                        </div>
                 </div>
         </div>
+
 </section>
 <!--================Blog Area =================-->
