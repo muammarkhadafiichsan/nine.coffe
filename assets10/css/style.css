@@ -328,18 +328,18 @@ button {
   .navbar-toggler[aria-expanded="true"] span:nth-child(2) {
     opacity: 0; }
   .navbar-toggler[aria-expanded="true"] span:first-child {
-    transform: rotate(-45deg);
+    
     position: relative;
     top: 7.5px; }
   .navbar-toggler[aria-expanded="true"] span:last-child {
-    transform: rotate(45deg);
+    
     bottom: 6px;
     position: relative; }
   .navbar-toggler span {
     display: block;
     width: 25px;
     height: 3px;
-    background: #cca772;
+    
     margin: auto;
     margin-bottom: 4px;
     transition: all 400ms linear;

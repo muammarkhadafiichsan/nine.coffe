@@ -1,3 +1,20 @@
+<div class="bd-example">
+    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+
+        </ol>
+
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+
+                <img src="<?= base_url('assets/images/logo_nine.png'); ?>" class="d-block w-100" alt="..." height="850" width="450">
+
+
+                <div class="carousel-caption d-none d-md-block">
+
+                </div>
+            </div>
+
 <!--================Blog Area =================-->
 <section class="blog_area single-post-area py-80px">
         <div class="container">

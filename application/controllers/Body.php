@@ -31,12 +31,13 @@ class Body extends CI_Controller
     {
 
         $data['berita'] = $this->Model_berita->detail_berita($Id);
-        $this->load->view('templates/header');
         $this->load->view('templates/header8');
+        $this->load->view('templates/header');
+        
         $this->load->view('templates/navbar');
         $this->load->view('tampilan/view_berita', $data);
         $this->load->view('templates/footer8');
         $this->load->view('templates/footer');
-        $this->load->view('templates/footer5');
+        
     }
 }
